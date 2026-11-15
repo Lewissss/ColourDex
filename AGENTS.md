@@ -32,3 +32,8 @@ Add “Read Lewissss/ColourDex/AGENTS.md first; do not commit directly to main�
 ## Test the update path
 
 Use a temporary feature branch or the initial setup branch; never add dummy Pokémon to the live catalogue. `node scripts/check-remote.mjs BRANCH` runs the actual public GitHub loader and cross-file validator against the branch's immutable commit SHA. Confirm main is unchanged. Do not merge test-only content.
+
+
+## Private photo feature
+
+Completed-page photo selection uses `src/photos.ts` and browser IndexedDB, independent of guide data and GitHub. Do not put these private photos, original filenames or photo metadata into `completedArtwork` or any public commit. Preserve existing completion marks and local photos when changing the frontend. The optional picker must retain Not now, safe cancellation, preview-before-save, replacement and removal; My Collection compares the official reference and private photo side by side, including on mobile. Photographs stay on the current browser/device and do not sync.

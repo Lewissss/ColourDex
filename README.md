@@ -32,3 +32,12 @@ Node 24+, `npm ci`, `npm test`, `npm run validate -- --links`, `npm run build`, 
 Frontend source is kept here for maintainability; Sites uses a separate platform-managed deployment repository containing its private deployment manifest. Frontend changes require a Sites deployment. Content changes do not. Never commit deployment credentials, tokens or personal photographs.
 
 This is an independent fan reference, not an official Pokémon or Kalour product. Official artwork © Nintendo / Creatures Inc. / GAME FREAK inc.; Pokémon.com sources are attributed in every guide. Digital swatches are approximations rather than measured pigments and cannot represent metallic sheen or fluorescence. Personal progress is local to one browser/device; there is no account synchronisation or automatic photo upload.
+
+
+## Private completed-page photographs
+
+Marking a Pokémon complete offers an optional device photo picker with a preview and a Not now option. My Collection shows the official reference and the saved photograph side by side; photos can be added later, replaced or removed. Completing a Pokémon never requires a photo.
+
+Photos are resized in the browser, re-encoded to remove original EXIF/location metadata, and stored as blobs in IndexedDB on that browser/device. The original filename and original metadata are not stored. No photo bytes are sent to Sites, GitHub or another server. Clearing browser data removes the photos; there is no cross-device synchronisation. Marking a Pokémon incomplete keeps its photo for later.
+
+`src/photos.ts` owns validation, processing and private browser storage. `tests/photos.test.mjs` checks supported formats, size limits and proportional resizing. Real-browser QA covers saving, reload persistence, cancellation, replacement, removal and responsive comparisons.
