@@ -32,3 +32,8 @@ Node 24+, then `npm ci`, `npm test`, `npm run validate -- --links`, `npm run bui
 ## Repository administration
 
 `scripts/main-protection.json` and `scripts/configure-github.sh` contain the requested concrete settings. With GitHub CLI authenticated as a repository administrator, run `bash scripts/configure-github.sh` from the checkout. It verifies main exists, configures squash-only merging, blocks direct main updates through required PRs and checks, prevents force pushes and deletion, requires resolved conversations and current branches, and sets Actions to read-only with no PR-approval capability. It never commits to main or creates new collaborators. Zero extra reviewer approvals keeps a personal repository usable by its owner. These files are configuration to apply, not proof that GitHub settings have been applied.
+
+
+## Your private collection photos
+
+You can now add an optional photograph when marking a Pokémon complete, or later through My Collection. Photos are kept privately on that device in browser storage, never in guide JSON or the public repository. Replacing a photo only takes effect after choosing Save photo. Removing a photo keeps the Pokémon complete; marking it incomplete keeps the photo for later. Photos do not sync between devices and are removed when browser data is cleared.
