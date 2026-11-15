@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "number": 7,
+  "name": "Squirtle",
+  "slug": "squirtle",
+  "types": [
+    "Water"
+  ],
+  "family": "squirtle",
+  "intro": "Soft sky-blue skin, cream belly plates and a warm brown shell give Squirtle a rounded, friendly look. Crisp shell seams contrast with softly blended skin.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/squirtle",
+    "attribution": "Official Pok\u00e9mon artwork. \u00a9 Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pok\u00e9mon.com.",
+    "fallback": "/artwork/squirtle.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body",
+      "pencils": [
+        "068",
+        "082",
+        "062",
+        "064"
+      ]
+    },
+    {
+      "label": "Belly",
+      "pencils": [
+        "046",
+        "056",
+        "172",
+        "040"
+      ]
+    },
+    {
+      "label": "Back shell",
+      "pencils": [
+        "176",
+        "177",
+        "186",
+        "199"
+      ]
+    },
+    {
+      "label": "Shell border",
+      "pencils": [
+        "053",
+        "046",
+        "172"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "180",
+        "018",
+        "203"
+      ]
+    },
+    {
+      "label": "Mouth",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Work with a light source above and to the left. First layers use light pressure, roughly 1\u20132 out of 5. Keep a sharp point for edges and use small circular strokes for even skin. Build several transparent layers before medium-pressure blending; test on spare paper first.",
+  "sections": [
+    {
+      "title": "Head & cheeks",
+      "steps": [
+        {
+          "text": "Lay @068 over the forehead, muzzle and cheeks with light pressure. Keep a pale highlight on the upper-left forehead and just above the muzzle.",
+          "pencils": [
+            "068"
+          ]
+        },
+        {
+          "text": "Build @082 round the right cheek and lower face. Use @062 beneath the chin and at the neck, reducing pressure towards the bright front of the face.",
+          "pencils": [
+            "062",
+            "082"
+          ]
+        },
+        {
+          "text": "Place @064 only in the narrow neck crease and darkest cheek edge. Blend the large transition with @068 so the face stays clear sky blue.",
+          "pencils": [
+            "064",
+            "068"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arms, legs & curled tail",
+      "steps": [
+        {
+          "text": "Cover the limbs and tail with @068. Preserve a pale strip along each upper arm and on the top edge of the curled tail.",
+          "pencils": [
+            "068"
+          ]
+        },
+        {
+          "text": "Layer @082 round the limbs and @062 along their inner edges. Follow the tail spiral with curved strokes so the curl remains readable.",
+          "pencils": [
+            "062",
+            "082"
+          ]
+        },
+        {
+          "text": "Use @064 behind the arms, between the legs and at the centre of the tail curl. Soften into @062, then blend lit surfaces with @068 without carrying darkness across them.",
+          "pencils": [
+            "062",
+            "064",
+            "068"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cream belly plates",
+      "steps": [
+        {
+          "text": "Lay @046 over the belly, keeping the centre of each plate pale. Work lightly around the printed seams instead of filling them with thick pigment.",
+          "pencils": [
+            "046"
+          ]
+        },
+        {
+          "text": "Use @056 at each plate edge and @172 beneath the chest rim and where the belly turns away at the sides. Keep the raised centres light.",
+          "pencils": [
+            "056",
+            "172"
+          ]
+        },
+        {
+          "text": "Add @040 sparingly at the bottom edge and deepest seam intersections. Blend back with @046 so the plates look raised rather than outlined in dark bands.",
+          "pencils": [
+            "040",
+            "046"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Brown back shell",
+      "steps": [
+        {
+          "text": "Cover the visible shell plates with @176, leaving a lighter area on the upper-left of each one. Follow the plate curves with short rounded strokes.",
+          "pencils": [
+            "176"
+          ]
+        },
+        {
+          "text": "Build @177 towards the sides of the plates and @186 beside the seams and lower shell edge. Keep seam shadows narrow and controlled.",
+          "pencils": [
+            "177",
+            "186"
+          ]
+        },
+        {
+          "text": "Use @199 only at seam intersections and where the shell meets the body. Blend the plate centres with @176, keeping them warmer and darker than the border.",
+          "pencils": [
+            "176",
+            "199"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pale shell border",
+      "steps": [
+        {
+          "text": "Apply @053 lightly along the shell rim. Leave a thin paper highlight on its upper-left outer edge to suggest a rounded lip.",
+          "pencils": [
+            "053"
+          ]
+        },
+        {
+          "text": "Layer @046 on the lower-right part of the border and @172 where the rim passes beneath the head or behind an arm.",
+          "pencils": [
+            "046",
+            "172"
+          ]
+        },
+        {
+          "text": "Blend with @053, preserving a clear light strip between shell and skin. A thin shadow on the inner rim gives the shell border thickness.",
+          "pencils": [
+            "053"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Reddish-brown eyes",
+      "pencils": [
+        "180",
+        "018",
+        "203"
+      ],
+      "instructions": "Use @180 on the iris, @018 beneath the upper eyelid and @203 for the pupil. Leave a clean white catchlight."
+    },
+    {
+      "feature": "Mouth & tongue",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ],
+      "instructions": "Lay @050 on the tongue, @017 at its root and @015 in the mouth behind it. Keep the tongue visibly lighter than the cavity."
+    },
+    {
+      "feature": "Toes & shell seams",
+      "pencils": [
+        "064",
+        "199"
+      ],
+      "instructions": "Use tiny @064 accents in toe creases and @199 where shell seams meet. Avoid outlining every toe or plate in a thick dark band."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Deepen @064 under the chin, behind the arms and inside the tail curl; keep the forehead and upper limbs pale.",
+      "Use @199 only at shell intersections and @186 below the shell. Retain a clearly visible cream border.",
+      "Add @172 beneath the chest rim and @040 at the lower belly, leaving each plate centre bright."
+    ],
+    "blending": "Blend skin with @068, belly plates with @046, shell centres with @176 and the rim with @053. Keep small unburnished highlights on the forehead and shell plates.",
+    "white": "Use @204 White only at the end for a small soft highlight or a deliberately pale blend. It can lighten or cloud saturated colours, and firm burnishing fills the paper\u2019s tooth, making later layers difficult. Prefer the lightest coloured pencil for broad blends when vibrancy matters. Reserve tiny eye reflections as bare paper; white pencil may not cover a dark layer."
+  },
+  "colouringOrder": [
+    "Light blue skin base",
+    "Blue limb & tail shading",
+    "Cream belly plates",
+    "Brown shell plates & seams",
+    "Pale shell border",
+    "Eyes & mouth",
+    "Contact shadows & final blending"
+  ],
+  "completedArtwork": []
+}

@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "updatedAt": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "pokemon": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "number": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 99999
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "types": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+              ]
+            },
+            "minItems": 1
+          },
+          "family": {
+            "type": "string",
+            "minLength": 1
+          },
+          "file": {
+            "type": "string",
+            "pattern": "^[0-9]{4,5}-[a-z0-9-]+\\.json$"
+          },
+          "previewPencils": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(00[1-9]|0[1-9][0-9]|1[0-9]{2}|2[0-3][0-9]|240)$"
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "number",
+          "name",
+          "slug",
+          "types",
+          "family",
+          "file",
+          "previewPencils"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "updatedAt",
+    "pokemon"
+  ],
+  "additionalProperties": false
+}

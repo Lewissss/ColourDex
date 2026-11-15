@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "number": 1,
+  "name": "Bulbasaur",
+  "slug": "bulbasaur",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "family": "bulbasaur",
+  "intro": "Build a soft turquoise-green body, deep teal spots and a fresh green bulb. Transparent layers keep this little seed Pok\u00e9mon rounded and lively.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/bulbasaur",
+    "attribution": "Official Pok\u00e9mon artwork. \u00a9 Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pok\u00e9mon.com.",
+    "fallback": "/artwork/bulbasaur.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body",
+      "pencils": [
+        "114",
+        "113",
+        "111"
+      ]
+    },
+    {
+      "label": "Spots",
+      "pencils": [
+        "110",
+        "109"
+      ]
+    },
+    {
+      "label": "Bulb",
+      "pencils": [
+        "130",
+        "134",
+        "121",
+        "135"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ]
+    },
+    {
+      "label": "Mouth",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Work with a light source above and to the left. First layers use light pressure, roughly 1\u20132 out of 5. Keep a sharp point for edges and use small circular strokes for even skin. Build several transparent layers before medium-pressure blending; test on spare paper first.",
+  "sections": [
+    {
+      "title": "Head, cheeks & ears",
+      "steps": [
+        {
+          "text": "Lay @114 lightly across the forehead, muzzle, cheeks and outer ears. Preserve a pale highlight along the upper-left forehead and above the muzzle; leave the eyes and mouth clear.",
+          "pencils": [
+            "114"
+          ]
+        },
+        {
+          "text": "Build @113 round the right cheek and along the lower face. Use small circular strokes and reduce pressure towards the pale forehead so the colour changes gradually.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Place @111 inside the ear bases, beneath the lower jaw and at the neck crease. Keep these shadows narrow, then blend their edges with @114 without carrying darkness across the muzzle.",
+          "pencils": [
+            "111",
+            "114"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Torso & four legs",
+      "steps": [
+        {
+          "text": "Cover the back, flanks and legs with a light layer of @114. Leave the top of each leg lighter than its inner edge so the limbs read as curved cylinders.",
+          "pencils": [
+            "114"
+          ]
+        },
+        {
+          "text": "Add @113 down the right flank, around the haunches and below each knee. Follow the curve of each limb, keeping a pale strip along its upper-left side.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Use @111 beneath the belly, between the legs and behind the front knees. Add a slim contact shadow beneath the bulb, then smooth the midtone with @114 rather than pressing harder.",
+          "pencils": [
+            "111",
+            "114"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dark teal body spots",
+      "steps": [
+        {
+          "text": "Pick out the forehead, cheek and leg markings with @110, using a sharpened point at their irregular borders. Leave a little lighter colour on their upper-left edges.",
+          "pencils": [
+            "110"
+          ]
+        },
+        {
+          "text": "Layer @109 into the lower-right edge of each spot, especially the patches on the far legs. Their shadows should follow the rounded skin beneath them.",
+          "pencils": [
+            "109"
+          ]
+        },
+        {
+          "text": "Use a light second pass of @110 through each patch centre to join the tones. Keep the edges crisp and avoid spreading the dark pigment into the surrounding body.",
+          "pencils": [
+            "110"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Green bulb & folded lobes",
+      "steps": [
+        {
+          "text": "Lay @130 over the bulb, keeping a slim pale ridge on each upper-left lobe. Curve your strokes vertically to follow its shape rather than drawing flat stripes.",
+          "pencils": [
+            "130"
+          ]
+        },
+        {
+          "text": "Build @134 through the middle of the bulb and @121 on the lower sides of the lobes. Leave lighter strips between folds to make the rounded sections distinct.",
+          "pencils": [
+            "121",
+            "134"
+          ]
+        },
+        {
+          "text": "Use @135 in the creases between lobes and around the base where the bulb meets the back. Feather outward with @134 and glaze the bright ridges lightly with @130.",
+          "pencils": [
+            "130",
+            "134",
+            "135"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ],
+      "instructions": "Fill the iris with @019, strengthen the upper edge with @011, and use @203 for the pupil and darkest lash line only. Preserve the white catchlight."
+    },
+    {
+      "feature": "Mouth & tongue",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ],
+      "instructions": "Use @050 on the tongue, @017 towards its root and @015 deep inside the mouth, especially under the upper lip."
+    },
+    {
+      "feature": "Claws & tiny teeth",
+      "pencils": [
+        "204"
+      ],
+      "instructions": "Keep mostly paper white, preserving the printed outlines. A small final touch of @204 can smooth a pale highlight; it is not an opaque correction pencil."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Strengthen @111 beneath the chin and where the front legs meet the body; keep the forehead and shoulders bright.",
+      "Concentrate @135 at the bulb base and deepest folds, leaving the upper ridges fresh and light.",
+      "Use @109 on the lower edges of the spots to make their position on curved skin convincing."
+    ],
+    "blending": "Blend skin with @114 and the lit bulb ridges with @130. Several gentle passes keep more paper texture than one firm burnishing pass.",
+    "white": "Use @204 White only at the end for a small soft highlight or a deliberately pale blend. It can lighten or cloud saturated colours, and firm burnishing fills the paper\u2019s tooth, making later layers difficult. Prefer the lightest coloured pencil for broad blends when vibrancy matters. Reserve tiny eye reflections as bare paper; white pencil may not cover a dark layer."
+  },
+  "colouringOrder": [
+    "Light body base",
+    "Body midtones & shadows",
+    "Teal spots",
+    "Bulb lobes & folds",
+    "Eyes & mouth",
+    "Claws, contact shadows & highlights"
+  ],
+  "completedArtwork": []
+}

@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "number": 3,
+  "name": "Venusaur",
+  "slug": "venusaur",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "family": "bulbasaur",
+  "intro": "Deep turquoise skin supports a broad jungle-green canopy, textured brown trunk and large pink flower. Treat the body, leaves, trunk and petals as separate forms so the silhouette stays readable.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/venusaur",
+    "attribution": "Official Pok\u00e9mon artwork. \u00a9 Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pok\u00e9mon.com.",
+    "fallback": "/artwork/venusaur.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body & shadows",
+      "pencils": [
+        "113",
+        "110",
+        "111",
+        "109"
+      ]
+    },
+    {
+      "label": "Markings",
+      "pencils": [
+        "080",
+        "071"
+      ]
+    },
+    {
+      "label": "Flower",
+      "pencils": [
+        "050",
+        "057",
+        "165",
+        "157"
+      ]
+    },
+    {
+      "label": "Leaves",
+      "pencils": [
+        "130",
+        "121",
+        "135",
+        "137"
+      ]
+    },
+    {
+      "label": "Trunk",
+      "pencils": [
+        "172",
+        "184",
+        "186"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ]
+    },
+    {
+      "label": "Tongue",
+      "pencils": [
+        "152",
+        "159",
+        "153"
+      ]
+    },
+    {
+      "label": "Mouth interior",
+      "pencils": [
+        "015"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Work with a light source above and to the left. First layers use light pressure, roughly 1\u20132 out of 5. Keep a sharp point for edges and use small circular strokes for even skin. Build several transparent layers before medium-pressure blending; test on spare paper first.",
+  "sections": [
+    {
+      "title": "Head, cheeks & ears",
+      "steps": [
+        {
+          "text": "Lay @113 over the forehead, muzzle and cheeks with light pressure. Keep the top-left brow and cheek brighter, working carefully around the eye whites.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Layer @110 round the face, then use @111 inside the ears, below the brow ridges and beneath the lower jaw. Curve strokes around the heavy cheeks.",
+          "pencils": [
+            "110",
+            "111"
+          ]
+        },
+        {
+          "text": "Add @109 in the deepest ear creases and where the canopy shades the head. Blend the edge with @113, keeping a clear pale muzzle against the darker neck.",
+          "pencils": [
+            "109",
+            "113"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Broad torso & sturdy legs",
+      "steps": [
+        {
+          "text": "Apply @113 to the back, flanks and legs, leaving the upper shoulders and haunches lighter. Keep each front-facing limb separate from the body behind it.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Build @110 on the right flank and @111 under the belly, inside the legs and behind the front knees. Follow the rounded bulk of each limb.",
+          "pencils": [
+            "110",
+            "111"
+          ]
+        },
+        {
+          "text": "Use @109 at the leg joints and directly beneath the canopy. Leave a slim lighter rim on each near leg, then smooth broad midtone transitions with @113.",
+          "pencils": [
+            "109",
+            "113"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Angular body markings",
+      "steps": [
+        {
+          "text": "Fill the forehead and leg patches with @080 using a sharp point at their edges. Keep their upper-left portions a little lighter than the underside.",
+          "pencils": [
+            "080"
+          ]
+        },
+        {
+          "text": "Layer @071 into the bottom and right side of the largest patches. Keep it thin and local, leaving some @080 visible in the centre.",
+          "pencils": [
+            "071",
+            "080"
+          ]
+        },
+        {
+          "text": "Glaze @080 over the join. Check that forehead markings follow the face curvature and remain distinct from the dark shadows around the red eyes.",
+          "pencils": [
+            "080"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jungle-green leaf canopy",
+      "steps": [
+        {
+          "text": "Lay @130 on each leaf, preserving paler central veins and pointed tips. Stroke outward from the main vein to describe the leaf structure.",
+          "pencils": [
+            "130"
+          ]
+        },
+        {
+          "text": "Build @121 near leaf bases and between the main veins. Leave a narrow light strip on the lit side of each raised vein.",
+          "pencils": [
+            "121"
+          ]
+        },
+        {
+          "text": "Use @135 on curled-under edges and below overlaps. Place @137 only in the tight folds around the trunk; blend into @121 and brighten the lit ridges with @130.",
+          "pencils": [
+            "121",
+            "130",
+            "135",
+            "137"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Brown trunk & bark",
+      "steps": [
+        {
+          "text": "Use @172 for a light trunk base, leaving a pale strip on its left side. Work vertically along the trunk so the texture follows its growth.",
+          "pencils": [
+            "172"
+          ]
+        },
+        {
+          "text": "Layer @184 on the right side and in bark grooves. Use short, broken marks of unequal length so the bark feels organic rather than striped.",
+          "pencils": [
+            "184"
+          ]
+        },
+        {
+          "text": "Place @186 directly under the flower and where the trunk enters the canopy. Feather it into @184, then use @172 on the lit bark ridges to join the layers.",
+          "pencils": [
+            "172",
+            "184",
+            "186"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pink flower & pale petal spots",
+      "steps": [
+        {
+          "text": "Lay @050 over the petals while reserving the pale patterned spots as uncoloured paper. Keep an additional light area along each upper-left petal curve.",
+          "pencils": [
+            "050"
+          ]
+        },
+        {
+          "text": "Add @057 through the petal midtones and @165 at curled edges and overlaps. Use curved strokes radiating outward from the flower centre.",
+          "pencils": [
+            "057",
+            "165"
+          ]
+        },
+        {
+          "text": "Use @157 in narrow petal creases and beneath the centre. Feather outward with @165, then blend the bright areas with @050; keep the pale spots clean.",
+          "pencils": [
+            "050",
+            "157",
+            "165"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Raised flower centre",
+      "steps": [
+        {
+          "text": "Apply @172 lightly to the central flower structure, leaving tiny pale tips. Keep the ochre contained within the centre and away from the pink petals.",
+          "pencils": [
+            "172"
+          ]
+        },
+        {
+          "text": "Add @184 around the lower side of each small central form. Use a few @186 accents at the base to separate the centre from the petal plane.",
+          "pencils": [
+            "184",
+            "186"
+          ]
+        },
+        {
+          "text": "Blend the upward-facing surface with @172. Preserve the lighter top edge so the central structure appears raised above the flower rather than flat.",
+          "pencils": [
+            "172"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Red eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ],
+      "instructions": "Use @019 for the iris and @011 under the upper eyelid. Add @203 only to the pupil and darkest lash line; retain the catchlight."
+    },
+    {
+      "feature": "Purple tongue",
+      "pencils": [
+        "152",
+        "159",
+        "153"
+      ],
+      "instructions": "Lay @152 on the tongue, @159 through the middle and @153 at its root and underside. Keep the front of the tongue the lightest area."
+    },
+    {
+      "feature": "Mouth interior",
+      "pencils": [
+        "015"
+      ],
+      "instructions": "Place @015 beneath the upper lip and behind the tongue. Preserve pale teeth and keep the tongue edge clearly separate."
+    },
+    {
+      "feature": "Claws, teeth & petal spots",
+      "pencils": [
+        "204"
+      ],
+      "instructions": "Reserve white paper. Suggest a spot turning into shadow with the neighbouring pale base colour. Use @204 only for a final soft highlight."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Strengthen @109 beneath the canopy, chin and belly, keeping the head and shoulders readable against the dark areas.",
+      "Reinforce @137 under overlapping leaves and @186 where the trunk enters the canopy. These contact shadows anchor the plant to the body.",
+      "Use @157 sparingly at flower overlaps and @071 at the lower edges of body patches. Preserve a light-to-dark progression on every rounded form."
+    ],
+    "blending": "Blend turquoise with @113, leaf ridges with @130, petals with @050 and bark highlights with @172. Work curved strokes on skin and petals, outward strokes on leaves, and vertical strokes on bark.",
+    "white": "Use @204 White only at the end for a small soft highlight or a deliberately pale blend. It can lighten or cloud saturated colours, and firm burnishing fills the paper\u2019s tooth, making later layers difficult. Prefer the lightest coloured pencil for broad blends when vibrancy matters. Reserve tiny eye reflections as bare paper; white pencil may not cover a dark layer."
+  },
+  "colouringOrder": [
+    "Body base & rounded shadows",
+    "Blue-green markings",
+    "Leaf canopy",
+    "Trunk & flower centre",
+    "Pink petals, preserving pale spots",
+    "Eyes, mouth & tongue",
+    "Claws, contact shadows, blending & highlights"
+  ],
+  "completedArtwork": []
+}

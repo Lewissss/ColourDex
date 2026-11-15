@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-14",
+  "pokemon": [
+    {
+      "number": 1,
+      "name": "Bulbasaur",
+      "slug": "bulbasaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "family": "bulbasaur",
+      "file": "0001-bulbasaur.json",
+      "previewPencils": [
+        "114",
+        "113",
+        "111",
+        "110",
+        "109"
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Ivysaur",
+      "slug": "ivysaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "family": "bulbasaur",
+      "file": "0002-ivysaur.json",
+      "previewPencils": [
+        "113",
+        "110",
+        "111",
+        "080",
+        "109"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Venusaur",
+      "slug": "venusaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "family": "bulbasaur",
+      "file": "0003-venusaur.json",
+      "previewPencils": [
+        "113",
+        "110",
+        "111",
+        "080",
+        "071"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Charmander",
+      "slug": "charmander",
+      "types": [
+        "Fire"
+      ],
+      "family": "charmander",
+      "file": "0004-charmander.json",
+      "previewPencils": [
+        "033",
+        "031",
+        "059",
+        "021",
+        "055"
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Squirtle",
+      "slug": "squirtle",
+      "types": [
+        "Water"
+      ],
+      "family": "squirtle",
+      "file": "0007-squirtle.json",
+      "previewPencils": [
+        "068",
+        "082",
+        "062",
+        "046",
+        "056"
+      ]
+    }
+  ]
+}
