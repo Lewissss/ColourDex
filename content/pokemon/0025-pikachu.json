@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "number": 25,
+  "name": "Pikachu",
+  "slug": "pikachu",
+  "types": [
+    "Electric"
+  ],
+  "family": "pikachu",
+  "intro": "Pikachu's bright lemon-gold coat, scarlet cheek circles, jet-black ear tips and lightning-bolt tail are the key to its instantly recognisable silhouette. Keep the face and belly luminous, using warm golden shadows rather than grey or heavy brown over the yellow fur. The red cheeks should be the strongest accent, while the brown back stripes and tail root remain clearly distinct from the black ear tips.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/pikachu",
+    "attribution": "Official Pokémon artwork. © Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pokémon.com.",
+    "fallback": "/artwork/pikachu.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Yellow fur & golden shadows",
+      "pencils": [
+        "047",
+        "045",
+        "038",
+        "043",
+        "030"
+      ]
+    },
+    {
+      "label": "Red electric cheeks",
+      "pencils": [
+        "019",
+        "008",
+        "011"
+      ]
+    },
+    {
+      "label": "Ear tips, eyes & nose",
+      "pencils": [
+        "200",
+        "203"
+      ]
+    },
+    {
+      "label": "Brown back stripes & tail base",
+      "pencils": [
+        "184",
+        "171",
+        "186"
+      ]
+    },
+    {
+      "label": "Mouth & tongue",
+      "pencils": [
+        "018",
+        "024",
+        "017"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Use an imaginary light above and to the left. Build clean yellow layers at 1–2 out of 5 pressure, in tiny overlapping circles, leaving paper tooth for the later warm shadows. Keep a sharp point around eyes, cheeks, ear-tip boundaries and tail corners. Complete the pale yellow areas before the dark markings; clean crumbs away with a soft brush rather than dragging black or red pigment into the yellow. Test your layering on spare paper first.",
+  "sections": [
+    {
+      "title": "Round head, forehead & muzzle",
+      "steps": [
+        {
+          "text": "Lay a soft veil of @047 across the forehead, muzzle and outer cheeks, stopping precisely at the red cheek circles and eye outlines. Leave a small, almost bare highlight on the upper-left forehead.",
+          "pencils": ["047"]
+        },
+        {
+          "text": "With @045 at light pressure, build the main sunny yellow across the head in small overlapping circles. Let the pressure taper towards the forehead highlight and the rounded muzzle so the head does not look flat.",
+          "pencils": ["045"]
+        },
+        {
+          "text": "Glaze @038 along the shadow-side cheek and under the chin; deepen the narrow crease where the head meets the neck with @043. Feather both towards the centre, leaving the front of the face predominantly yellow.",
+          "pencils": ["038", "043"]
+        },
+        {
+          "text": "Pass @045 over the golden transitions at medium-light pressure, then polish the lit forehead and muzzle with @047. Keep the highlights soft and broad rather than drawing a separate white patch on the face.",
+          "pencils": ["045", "047"]
+        }
+      ]
+    },
+    {
+      "title": "Rounded belly, arms & little feet",
+      "steps": [
+        {
+          "text": "Cover the torso, arms and feet with @047, then layer @045 most strongly over the outward-facing surfaces. Keep the belly centre and tops of the near paws slightly lighter than their sides.",
+          "pencils": ["047", "045"]
+        },
+        {
+          "text": "Curve @038 around the right flank, lower belly and rounded underside of each arm. Stroke around the forms instead of drawing straight dark outlines; leave a slim lit rim on the nearer arm.",
+          "pencils": ["038"]
+        },
+        {
+          "text": "Use @043 beneath overlapping arms and along the lower body where the feet emerge, then touch @030 into the deepest contact creases. Keep these warm shadows narrow so they do not turn Pikachu orange.",
+          "pencils": ["043", "030"]
+        },
+        {
+          "text": "Blend the belly back towards @045 using gentle circles, then soften the lit belly curve and toe tops with @047. Retain a thin golden separation between the feet and torso rather than making the feet uniformly dark.",
+          "pencils": ["045", "047"]
+        }
+      ]
+    },
+    {
+      "title": "Long ears & black tips",
+      "steps": [
+        {
+          "text": "Lay @045 over the yellow portions of both ears, leaving a narrow @047 highlight along their upper-left-facing edges. Use strokes running from the base towards the tip to emphasise their length.",
+          "pencils": ["045", "047"]
+        },
+        {
+          "text": "Shade the base and shadow-side edge of each yellow ear with @038 and a narrow touch of @043 where it meets the head. Keep the boundary between yellow and the black tip crisp, not blended together.",
+          "pencils": ["038", "043"]
+        },
+        {
+          "text": "Fill each black ear tip with @200 at light-to-medium pressure as an underlayer. Build @203 over the tip in several lengthwise passes, strongest along the underside and tapering gently across the lit edge.",
+          "pencils": ["200", "203"]
+        },
+        {
+          "text": "With a sharp @203, refine the curved or angled line dividing yellow from black. Retain only a subtle @200 sheen on the light-facing edge; the tips should still read as black rather than silver or grey.",
+          "pencils": ["203", "200"]
+        }
+      ]
+    },
+    {
+      "title": "Scarlet electric cheek circles",
+      "steps": [
+        {
+          "text": "Fill each cheek circle evenly with @019 using a sharp pencil and light circular strokes. Keep its printed outline clean and leave the upper-left arc a little lighter, without leaving a large uncoloured spot.",
+          "pencils": ["019"]
+        },
+        {
+          "text": "Layer @008 around the lower-right arc of each cheek, reducing pressure as you move towards the centre. On a turned face, make the far cheek slightly less luminous to help describe the head's curvature.",
+          "pencils": ["008"]
+        },
+        {
+          "text": "Touch @011 into a very narrow crescent at the darkest lower edge, then glaze @019 across the join with medium pressure. The cheek should remain a vivid red disc, not a burgundy ring or a pink circle.",
+          "pencils": ["011", "019"]
+        }
+      ]
+    },
+    {
+      "title": "Brown back stripes",
+      "steps": [
+        {
+          "text": "If the pose shows Pikachu's two back markings, map their edges with a sharp @184 and fill them lightly. Follow the existing stripe shapes around the back; do not add stripes to the yellow chest or belly.",
+          "pencils": ["184"]
+        },
+        {
+          "text": "Build @171 through each stripe with strokes that follow the back's curvature. Retain the lighter @184 on the upper-facing edge so the stripe looks like a marking in the fur rather than a separate raised object.",
+          "pencils": ["171", "184"]
+        },
+        {
+          "text": "Glaze @186 along the shadow-side edge of the stripes where the torso turns away from the light. Feather into @171 within the marking, keeping the boundary with the surrounding yellow sharply defined.",
+          "pencils": ["186", "171"]
+        }
+      ]
+    },
+    {
+      "title": "Lightning-bolt tail & brown root",
+      "steps": [
+        {
+          "text": "Base the long yellow portion of the bolt with @047 followed by @045. Work in short strokes parallel to each angular segment, preserving the zigzag corners and a lighter strip along the top-facing edges.",
+          "pencils": ["047", "045"]
+        },
+        {
+          "text": "Use @038 on the lower-facing sections of the tail and @043 near its inner corners or where it passes behind the body. Feather the golden shadow into @045 rather than rounding off the lightning-bolt silhouette.",
+          "pencils": ["038", "043", "045"]
+        },
+        {
+          "text": "Colour only the small brown root adjoining the back with @184, layering @171 towards the attachment and @186 in the deepest contact shadow. Keep the large outer bolt yellow all the way to the end.",
+          "pencils": ["184", "171", "186"]
+        },
+        {
+          "text": "Blend the yellow tail planes with @045, then use @047 on the light-facing edges. Keep a crisp transition between the brown root and yellow bolt; Pikachu does not have a black tail tip.",
+          "pencils": ["045", "047"]
+        }
+      ]
+    },
+    {
+      "title": "Glossy eyes, tiny nose & smile",
+      "steps": [
+        {
+          "text": "Reserve the small round eye reflections as untouched paper. Lay @200 in the black eye shapes, leaving a subtle softer edge at the lower curve, then build @203 towards the upper lids and centre.",
+          "pencils": ["200", "203"]
+        },
+        {
+          "text": "Sharpen @203 to fill the tiny nose and trace the darkest portions of the smile without thickening the printed line. Keep the eye reflections clean and similarly positioned on the light-facing side.",
+          "pencils": ["203"]
+        },
+        {
+          "text": "If the mouth is open, lightly fill its interior with @018, increasing pressure beneath the upper lip and behind the tongue. Keep the dark interior distinct from the outline and the vivid red cheek patches.",
+          "pencils": ["018"]
+        },
+        {
+          "text": "Where a tongue is visible, base it with @024 and shade its root and underside with @017. Blend the front curve with @024, leaving it softly lit; if the mouth is closed, skip the mouth interior and tongue.",
+          "pencils": ["024", "017"]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Eye reflections",
+      "pencils": ["200", "203", "204"],
+      "instructions": "Use @200 as an underlayer and @203 for shiny black eyes, reserving the catchlights as bare paper. Apply @204 only to soften a pale margin beside the reflection if needed."
+    },
+    {
+      "feature": "Black nose & smile",
+      "pencils": ["203"],
+      "instructions": "Use a freshly sharpened @203 with short, controlled marks. Do not widen the original nose, mouth or tiny paw lines."
+    },
+    {
+      "feature": "Open mouth & tongue",
+      "pencils": ["018", "024", "017"],
+      "instructions": "Use @018 behind the tongue, @024 for the tongue base and @017 in its root shadow. Skip these if your picture has only a closed smile."
+    },
+    {
+      "feature": "Toe & arm creases",
+      "pencils": ["038", "043", "030"],
+      "instructions": "Use @038 along the underside, @043 inside the folds and @030 sparingly at contact creases. Avoid harsh black shadows on yellow fur."
+    },
+    {
+      "feature": "Tail tip & gender variation",
+      "pencils": ["045", "047"],
+      "instructions": "Keep the entire outer tip yellow using @045 and @047. Follow the line art, whether the tip is flat or has the female heart-shaped notch; neither has a black marking."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Strengthen @043 below the chin and arms, along the lower belly, and beneath the tail with light layers. Use @030 only for the smallest contact shadows.",
+      "Build @008 and a restrained touch of @011 around the lower cheek arcs. Leave a generous area of @019 visible so the cheeks remain scarlet.",
+      "Add a small amount of @186 at the tail attachment and on the turning edge of the back stripes. Reinforce @203 on ear tips and eyes only where the darkest contrast is needed.",
+      "Compare the tail, ears and body: the same direction of light should make upper-left surfaces brighter. Restore soft lit yellow areas using @047 rather than outlining them in white."
+    ],
+    "blending": "Use @045 to blend the golden shadow colours into the yellow midtones, and @047 for the forehead, belly and tail highlights. Blend the red cheeks with @019 and soften brown markings with @184 where lighter. Keep the yellow and dark marking edges clean, and do not drag the red or black pigment across the pale fur.",
+    "white": "Reserve @204 for a final small highlight on an already pale forehead or cheek edge, or a deliberate soft sheen on the eye. White can make yellow look chalky and red look pink; firm burnishing also fills the paper's tooth and makes extra layers difficult. For a luminous yellow blend use @047 instead, and for a strong red blend use @019. Leave the brightest eye catchlights as untouched paper because white pencil may not cover a heavy black layer."
+  },
+  "colouringOrder": [
+    "Yellow base across head, body, ears and tail, preserving the cheek circles and eye reflections",
+    "Rounded golden shading on the face, belly, arms and feet",
+    "Yellow ear shafts and lightning-bolt tail planes",
+    "Brown back markings and tail root, where visible",
+    "Scarlet cheek circles",
+    "Black ear tips, eyes, nose and smile",
+    "Open mouth and tongue, if visible",
+    "Contact shadows, clean transitions and selective final highlights"
+  ],
+  "completedArtwork": []
+}
