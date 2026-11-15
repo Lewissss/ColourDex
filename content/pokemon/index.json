@@ -91,6 +91,23 @@
       ]
     },
     {
+      "number": 8,
+      "name": "Wartortle",
+      "slug": "wartortle",
+      "types": [
+        "Water"
+      ],
+      "family": "squirtle",
+      "file": "0008-wartortle.json",
+      "previewPencils": [
+        "092",
+        "061",
+        "063",
+        "053",
+        "175"
+      ]
+    },
+    {
       "number": 25,
       "name": "Pikachu",
       "slug": "pikachu",

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "number": 8,
+  "name": "Wartortle",
+  "slug": "wartortle",
+  "types": ["Water"],
+  "family": "squirtle",
+  "intro": "Wartortle has a cooler, slightly lavender-blue body than Squirtle, with icy blue feather-like ears and a large fluffy curled tail. Contrast those soft, pale shapes with the cream belly, earthy shell and confident reddish-brown eyes. Keep the ears and tail noticeably lighter than the body, and use the darkest blues only where forms overlap.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/wartortle",
+    "attribution": "Official Pokémon artwork. © Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pokémon.com.",
+    "fallback": "/artwork/wartortle.png"
+  },
+  "colourGroups": [
+    {"label": "Blue-violet skin", "pencils": ["081", "092", "061", "064", "076"]},
+    {"label": "Pale blue ears & fluffy tail", "pencils": ["088", "068", "063", "066", "061"]},
+    {"label": "Cream belly plates", "pencils": ["053", "048", "044", "172", "190"]},
+    {"label": "Brown back shell", "pencils": ["175", "190", "186", "178"]},
+    {"label": "Pale shell rim", "pencils": ["192", "179", "187"]},
+    {"label": "Eyes", "pencils": ["176", "180", "018", "203"]},
+    {"label": "Mouth & tongue", "pencils": ["050", "017", "015"]},
+    {"label": "Fangs, claws & highlights", "pencils": ["192", "061", "204"]}
+  ],
+  "technique": "Imagine the light coming from the upper left. Use pressure 1–2 out of 5 for base layers, 2–3 for gradual shadows and at most 4 for tiny contact accents. On spare paper, test @092 over @081 for muted periwinkle skin and @063 over @088 for the much paler ears and tail. Keep the tooth of the paper open until the last blend; turn the page to follow the tail curls comfortably.",
+  "sections": [
+    {
+      "title": "Blue-violet head, muzzle & cheeks",
+      "steps": [
+        {"text": "With light pressure, cover the forehead, cheeks and muzzle in @081, leaving a wide pale patch on the upper-left forehead. Avoid the eye whites, tiny fangs and ear shapes. Small overlapping circles prevent grainy stripes across the large head.", "pencils": ["081"]},
+        {"text": "Glaze @092 over the forehead and cheeks, just a little more heavily towards the right. Let some @081 show through the lit crown and above the nose; the goal is a soft lavender-blue rather than the bright cyan used for Squirtle.", "pencils": ["092", "081"]},
+        {"text": "Build @061 beneath the brow ridges, around the outer cheeks and along the lower jaw. Use @064 under the chin and immediately beside the ear bases; feather inward with declining pressure to keep the face rounded.", "pencils": ["061", "064"]},
+        {"text": "Add a very narrow @076 accent at the deepest neck crease, not across the entire muzzle. Blend the transition with @092, then pass @081 lightly across the forehead and cheek highlights. Preserve Wartortle's angled, determined brow.", "pencils": ["076", "092", "081"]}
+      ]
+    },
+    {
+      "title": "Sturdy arms, legs & exposed skin",
+      "steps": [
+        {"text": "Apply @081 lightly to each arm and leg, using curved strokes along the length of the limbs. Leave the upper-facing arm surfaces and the rounded front of each knee pale; reserve the claws as bare paper.", "pencils": ["081"]},
+        {"text": "Layer @092 through the middle of the limbs and @061 along their lower edges. On the farther arm and leg, use a little more @061 so the nearer limbs stand forward without needing extra outlines.", "pencils": ["092", "061"]},
+        {"text": "With a sharp point, place @064 beneath the shoulders, behind the thighs and at the ankles. Add @076 only where an arm overlaps the shell or where the legs meet the belly; taper the shadows quickly away from these contacts.", "pencils": ["064", "076"]},
+        {"text": "Blend along the rounded muscles using @092 at medium-light pressure, then soften the lit shoulders and knees with @081. Leave a bright band along the top of each near limb and a thin border of blue around the white claws.", "pencils": ["092", "081"]}
+      ]
+    },
+    {
+      "title": "Feather-like icy blue ears",
+      "steps": [
+        {"text": "Keep each ear distinct from the darker skin. Use @088 with very light pressure along the length of the feather-like shape, reserving almost-white slivers at the upper tips and the edges that face the light.", "pencils": ["088"]},
+        {"text": "Layer @068 around the broad middle of each ear, following its upward sweep. Glaze @063 beside the central folds and near the attachment to the head, with shorter tapered strokes that suggest the soft feather-like surface.", "pencils": ["068", "063"]},
+        {"text": "Use @066 sparingly at the lowest fold and @061 only where an ear's base disappears behind the head. Work towards the tip with lighter pressure, never drawing a heavy stripe between the lobes.", "pencils": ["066", "061"]},
+        {"text": "Glaze @088 over the transitions and soften the middle-blue areas with @068 if needed. Leave the outer tuft edges and pale tips almost white; a few fine, tapered strokes following their direction are more convincing than colouring the entire ear solid blue.", "pencils": ["088", "068"]}
+      ]
+    },
+    {
+      "title": "Large fluffy curled tail",
+      "steps": [
+        {"text": "Lay a nearly transparent base of @088 on the full tail. Identify each rounded curl and preserve a crescent of bare paper or very pale blue on its upper-left side, keeping the tail lighter than every limb.", "pencils": ["088"]},
+        {"text": "Sweep @068 around each curl, moving in the direction of the spiral rather than straight across it. Bring @063 into the lower curves and the broad tail base; gradually release pressure as you move towards each highlight.", "pencils": ["068", "063"]},
+        {"text": "With a sharp @066 point, add a narrow shadow just inside the turns of the spirals, underneath overlapping curls and beside the lower tail edge. Soften that shadow with @063; keep the curl lines readable without making them look like dark ropes.", "pencils": ["066", "063"]},
+        {"text": "Place a small @061 contact shadow where the tail emerges from behind the shell and near the rear leg. Blend the broad curls with @088 and @068 using light curved strokes, leaving the tips pale and softly textured rather than glossy like the shell.", "pencils": ["061", "088", "068"]}
+      ]
+    },
+    {
+      "title": "Cream chest & belly plates",
+      "steps": [
+        {"text": "Lay @053 on the plastron with very light pressure, leaving a large bright area across the upper-left chest and the centres of the forward-facing plates. Follow the domed shape instead of treating each plate as a flat tile.", "pencils": ["053"]},
+        {"text": "Build @048 through the middle and @044 towards the right edge and bottom of the belly. Keep the torso warm but understated; the cream must remain much lighter than the blue body and brown back shell.", "pencils": ["048", "044"]},
+        {"text": "Use @172 in thin bands immediately below the arms and at the shadow-facing sides of the raised plates. Glaze a touch of @190 into the deepest bottom edge and seam junctions for a subdued neutral shadow, without covering the printed lines.", "pencils": ["172", "190"]},
+        {"text": "Blend from each plate's bright centre into its shadow with @053 and @048, leaving the light-facing side of the seams subtly brighter. Check the whole chest from a distance: all the plates should share one consistent upper-left light source.", "pencils": ["053", "048"]}
+      ]
+    },
+    {
+      "title": "Earthy back shell & pale raised rim",
+      "steps": [
+        {"text": "Fill the visible back-shell panels with @175, using curved strokes that follow the domed shell. Add a light veil of @190 to mute the warmth into the reference's earthy grey-brown, especially on the portion near the tail.", "pencils": ["175", "190"]},
+        {"text": "Layer @186 on the shadowed edges of the brown plates; add @178 in the narrowest seams and where the shell is occluded by the neck or limbs. Keep these deepest shadows local and allow the tan-brown midtone to remain visible.", "pencils": ["186", "178"]},
+        {"text": "Colour the narrow pale rim separately using @192 with light pressure. Layer @179 on its side-facing surface and @187 where it tucks beneath the arms or meets the tail, preserving a near-white outer highlight on the lit edge.", "pencils": ["192", "179", "187"]},
+        {"text": "Blend the shell centres with @175 and the rim with @192. Recheck the thin border around the shell: it should read as a raised cool, pale lip separating the brown carapace from the blue body and tail, not as another brown panel.", "pencils": ["175", "192"]}
+      ]
+    }
+  ],
+  "details": [
+    {"feature": "Determined brown eyes", "pencils": ["176", "180", "018", "203", "192"], "instructions": "Reserve the tiny white catchlights before layering. Use @176 on the lower iris, @180 through the middle and @018 just beneath the slanted upper eyelid. Add @203 to the pupils and deepest lash lines only; touch @192 into the shadowed corner of the eye white."},
+    {"feature": "Nose & closed smile", "pencils": ["064", "076"], "instructions": "For the reference's closed smile, lightly shade beneath the lip with @064; use a sharp @076 only in the tiny nostril and lip-corner accents. Keep the muzzle above them light and do not invent an open mouth if your line art shows a closed one."},
+    {"feature": "Open mouth (if present in your line art)", "pencils": ["050", "017", "015"], "instructions": "Lay @050 on the tongue, add @017 towards its root and place @015 in the cavity behind it. Keep the tongue and white fangs clearly separate from the dark mouth interior."},
+    {"feature": "Small fangs & three-pointed claws", "pencils": ["192", "061", "204"], "instructions": "Leave the tooth and claw faces as white paper. Apply a whisper of @192 at their bases and a tiny @061 shadow on the surrounding blue skin. Finish with @204 on a lit side if needed, rather than covering the entire claw in grey."}
+  ],
+  "finishing": {
+    "shadows": [
+      "Strengthen @076 only where limbs overlap, below the jaw and in the deepest neck shadow. Use @064 for the wider neighbouring shadows so the skin retains its blue-violet colour.",
+      "Reinforce @066 just inside the tail curl recesses and @061 at the attachment of the ears and tail. Keep the pale tips and upper curls distinct from the darker body.",
+      "Deepen @172 under the arms and @190 at the lower belly, then @178 in the shell's narrow occluded seams. Check that the rim remains visibly paler and cooler than the shell and belly."
+    ],
+    "blending": "For the skin, use @092 over the midtones and @081 at the lit edges. Use @088 or @068 to smooth the ears and tail without sacrificing their pale blue tint; blend belly plates with @053, back shell with @175 and rim with @192. Vary the strokes: circular on rounded skin, sweeping along fluffy curls and following the individual shell plates. Stop once the transition is smooth enough; overworking every patch can flatten the form.",
+    "white": "Use @204 sparingly as a final soft highlight on the ears, tail, claws or upper forehead. Firm white burnishing fills the paper tooth and makes further layers harder to apply; it can also mute the saturated blue and warm shell colours. For broad blends prefer the relevant pale coloured pencil listed above, and preserve eye reflections and the brightest tuft tips as bare paper from the start."
+  },
+  "colouringOrder": [
+    "Reserve eye catchlights, fangs, claws and bright ear and tail tips",
+    "Blue-violet head, face and muzzle",
+    "Arms, legs and exposed blue body",
+    "Pale icy blue ears and fluffy curled tail",
+    "Cream chest and belly plates",
+    "Earthy brown back shell and pale raised rim",
+    "Brown eyes, nose, fangs, claws and mouth details",
+    "Contact shadows, colour blending and selective highlights"
+  ],
+  "completedArtwork": []
+}
