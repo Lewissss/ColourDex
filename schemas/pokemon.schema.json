@@ -1,0 +1,268 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "number": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 99999
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "types": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Electric",
+          "Grass",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Ground",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Dark",
+          "Steel",
+          "Fairy"
+        ]
+      },
+      "minItems": 1
+    },
+    "family": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intro": {
+      "type": "string",
+      "minLength": 1
+    },
+    "artwork": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://(www\\.)?pokemon\\.com/[^ ]+\\.png$"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "pattern": "^https://(www\\.)?pokemon\\.com/"
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 1
+        },
+        "fallback": {
+          "type": "string",
+          "pattern": "^/artwork/[a-z0-9-]+\\.png$"
+        }
+      },
+      "required": [
+        "url",
+        "sourceUrl",
+        "attribution",
+        "fallback"
+      ],
+      "additionalProperties": false
+    },
+    "colourGroups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pencils": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(00[1-9]|0[1-9][0-9]|1[0-9]{2}|2[0-3][0-9]|240)$"
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "label",
+          "pencils"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "technique": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "steps": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "minLength": 80
+                },
+                "pencils": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^(00[1-9]|0[1-9][0-9]|1[0-9]{2}|2[0-3][0-9]|240)$"
+                  },
+                  "minItems": 1
+                }
+              },
+              "required": [
+                "text",
+                "pencils"
+              ],
+              "additionalProperties": false
+            },
+            "minItems": 3
+          }
+        },
+        "required": [
+          "title",
+          "steps"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 4
+    },
+    "details": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "feature": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pencils": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(00[1-9]|0[1-9][0-9]|1[0-9]{2}|2[0-3][0-9]|240)$"
+            },
+            "minItems": 1
+          },
+          "instructions": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "feature",
+          "pencils",
+          "instructions"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 3
+    },
+    "finishing": {
+      "type": "object",
+      "properties": {
+        "shadows": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 3
+        },
+        "blending": {
+          "type": "string",
+          "minLength": 1
+        },
+        "white": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "shadows",
+        "blending",
+        "white"
+      ],
+      "additionalProperties": false
+    },
+    "colouringOrder": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 5
+    },
+    "completedArtwork": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "caption": {
+            "type": "string",
+            "minLength": 1
+          },
+          "permissionGranted": {
+            "const": true
+          }
+        },
+        "required": [
+          "url",
+          "caption",
+          "permissionGranted"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 0
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "number",
+    "name",
+    "slug",
+    "types",
+    "family",
+    "intro",
+    "artwork",
+    "colourGroups",
+    "technique",
+    "sections",
+    "details",
+    "finishing",
+    "colouringOrder",
+    "completedArtwork"
+  ],
+  "additionalProperties": false
+}

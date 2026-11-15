@@ -1,0 +1,1446 @@
+{
+  "version": 1,
+  "description": "Exact user-supplied Kalour 240 mapping. Digital swatches are approximate, not measured pigments; metallic sheen and fluorescence cannot be reproduced on screen.",
+  "pencils": [
+    {
+      "number": "001",
+      "name": "Mulberry Red",
+      "hex": "#94314e",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "002",
+      "name": "Heather Violet",
+      "hex": "#8d6996",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "003",
+      "name": "Pastel Pink",
+      "hex": "#f4c6cf",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "004",
+      "name": "Bright Pink",
+      "hex": "#f56398",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "005",
+      "name": "Bright Red",
+      "hex": "#e53542",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "006",
+      "name": "Fresh Red",
+      "hex": "#ee4145",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "007",
+      "name": "Deep Pink",
+      "hex": "#d93876",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "008",
+      "name": "Red",
+      "hex": "#d82732",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "009",
+      "name": "Cochineal Red",
+      "hex": "#ad234c",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "010",
+      "name": "Light Pink",
+      "hex": "#f4b7c9",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "011",
+      "name": "Carmine Red",
+      "hex": "#ba2444",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "012",
+      "name": "Dark Brownish Red",
+      "hex": "#733c3b",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "013",
+      "name": "Burnt Brick Red",
+      "hex": "#97483c",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "014",
+      "name": "Light Brownish Red",
+      "hex": "#ab6660",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "015",
+      "name": "Burgundy",
+      "hex": "#742f49",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "016",
+      "name": "Magenta",
+      "hex": "#c42b88",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "017",
+      "name": "Rosy Pink",
+      "hex": "#dd698f",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "018",
+      "name": "Maroon",
+      "hex": "#742f39",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "019",
+      "name": "Scarlet",
+      "hex": "#ef3f3d",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "020",
+      "name": "Peach",
+      "hex": "#f5bc95",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "021",
+      "name": "Peach Puff",
+      "hex": "#f8d7b6",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "022",
+      "name": "Pink",
+      "hex": "#f19eb8",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "023",
+      "name": "Pale Pink",
+      "hex": "#f9d6dd",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "024",
+      "name": "Light Rosy Pink",
+      "hex": "#f1bbc6",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "025",
+      "name": "Cadmium Red",
+      "hex": "#e6554d",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "026",
+      "name": "India Red",
+      "hex": "#b24d50",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "027",
+      "name": "Dark Pink",
+      "hex": "#ac3c6a",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "028",
+      "name": "Peach Red",
+      "hex": "#e88078",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "029",
+      "name": "Aubergine",
+      "hex": "#56374e",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "030",
+      "name": "Pumpkin Yellow",
+      "hex": "#ecae3d",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "031",
+      "name": "Bright Orange",
+      "hex": "#ff8734",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "032",
+      "name": "Orange Red",
+      "hex": "#f05435",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "033",
+      "name": "Orange",
+      "hex": "#f49c3d",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "034",
+      "name": "Brick Dust",
+      "hex": "#b46348",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "035",
+      "name": "Bright Orange Red",
+      "hex": "#f86b37",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "036",
+      "name": "Dark Yellow",
+      "hex": "#c6a337",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "037",
+      "name": "Brown Olive",
+      "hex": "#827548",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "038",
+      "name": "Warm Yellow",
+      "hex": "#efc955",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "039",
+      "name": "Apricot Yellow",
+      "hex": "#f7c56c",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "040",
+      "name": "Autumn Gold",
+      "hex": "#c28b36",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "041",
+      "name": "Ginger Yellow",
+      "hex": "#c39b42",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "042",
+      "name": "Light Orange Yellow",
+      "hex": "#f6cc7b",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "043",
+      "name": "Bright Orange Yellow",
+      "hex": "#f8b83f",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "044",
+      "name": "Desert Yellow",
+      "hex": "#c8ac6b",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "045",
+      "name": "Canary Yellow",
+      "hex": "#ecd248",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "046",
+      "name": "Creamy Yellow",
+      "hex": "#f7e5a4",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "047",
+      "name": "Light Yellow",
+      "hex": "#f9ec93",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "048",
+      "name": "Shallow Yellow",
+      "hex": "#f4e5b8",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "049",
+      "name": "Light Coral",
+      "hex": "#f1ab9a",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "050",
+      "name": "Salmon Pink",
+      "hex": "#f3ada6",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "051",
+      "name": "Sakura",
+      "hex": "#f6c7cf",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "052",
+      "name": "Shallow Pink",
+      "hex": "#f7dbdc",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "053",
+      "name": "Pale Yellow",
+      "hex": "#f8edc4",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "054",
+      "name": "Shallow Orange",
+      "hex": "#f6d1ad",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "055",
+      "name": "Nude",
+      "hex": "#e7c5b1",
+      "family": "Earth tones"
+    },
+    {
+      "number": "056",
+      "name": "Creme Yellow",
+      "hex": "#f0df9b",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "057",
+      "name": "Azalea Pink",
+      "hex": "#e781a8",
+      "family": "Reds & pinks"
+    },
+    {
+      "number": "058",
+      "name": "Butter Yellow",
+      "hex": "#f7e9ae",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "059",
+      "name": "Terracotta",
+      "hex": "#b9775d",
+      "family": "Earth tones"
+    },
+    {
+      "number": "060",
+      "name": "Golden Orange",
+      "hex": "#e8a446",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "061",
+      "name": "Grey Blue",
+      "hex": "#7e91ad",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "062",
+      "name": "Cyan Blue",
+      "hex": "#3197bb",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "063",
+      "name": "Light Cyan Blue",
+      "hex": "#a0d6e2",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "064",
+      "name": "Denim Blue",
+      "hex": "#527998",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "065",
+      "name": "Azure",
+      "hex": "#398ace",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "066",
+      "name": "Sky Blue",
+      "hex": "#76b8e2",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "067",
+      "name": "Cyan",
+      "hex": "#35b8c7",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "068",
+      "name": "Light Sky Blue",
+      "hex": "#afd8ee",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "069",
+      "name": "Cobalt Blue",
+      "hex": "#3d64b6",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "070",
+      "name": "Royal Blue",
+      "hex": "#3551a2",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "071",
+      "name": "Dark Prussian Blue",
+      "hex": "#193b57",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "072",
+      "name": "Brilliant Blue",
+      "hex": "#477ed6",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "073",
+      "name": "Dodger Blue",
+      "hex": "#4e9de7",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "074",
+      "name": "Purplish Blue",
+      "hex": "#6669b0",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "075",
+      "name": "Peacock Blue",
+      "hex": "#297e93",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "076",
+      "name": "Navy Blue",
+      "hex": "#263c64",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "077",
+      "name": "Ultra Violet",
+      "hex": "#6d5bb2",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "078",
+      "name": "Deep Blue",
+      "hex": "#284d94",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "079",
+      "name": "Bluish Purple",
+      "hex": "#6960a1",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "080",
+      "name": "Greenish Blue",
+      "hex": "#327b8e",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "081",
+      "name": "Light Blue",
+      "hex": "#b2cce4",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "082",
+      "name": "Cerulean Blue",
+      "hex": "#438fc1",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "083",
+      "name": "Dark Purple",
+      "hex": "#4d346f",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "084",
+      "name": "Blue",
+      "hex": "#3474bd",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "085",
+      "name": "Deep Purple",
+      "hex": "#58337c",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "086",
+      "name": "Sapphire Blue",
+      "hex": "#285c9b",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "087",
+      "name": "Ultramarine",
+      "hex": "#4b5cb4",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "088",
+      "name": "Pale Blue",
+      "hex": "#c7dcea",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "089",
+      "name": "Intense Blue",
+      "hex": "#25649f",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "090",
+      "name": "Cypress Blue",
+      "hex": "#386c78",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "091",
+      "name": "Violet Lake",
+      "hex": "#785f9b",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "092",
+      "name": "Light Primary Blue",
+      "hex": "#a5bee8",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "093",
+      "name": "Bright Purple",
+      "hex": "#9962bd",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "094",
+      "name": "Primary Blue",
+      "hex": "#5379ca",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "095",
+      "name": "Ink Blue",
+      "hex": "#233d64",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "096",
+      "name": "Violet Blue",
+      "hex": "#6b70b1",
+      "family": "Blues & violets"
+    },
+    {
+      "number": "097",
+      "name": "Yellowish Green",
+      "hex": "#b5c85d",
+      "family": "Greens"
+    },
+    {
+      "number": "098",
+      "name": "Olive Yellow",
+      "hex": "#b7ac4f",
+      "family": "Greens"
+    },
+    {
+      "number": "099",
+      "name": "Earth Tone",
+      "hex": "#a08e66",
+      "family": "Earth tones"
+    },
+    {
+      "number": "100",
+      "name": "Light Yellowish Green",
+      "hex": "#c6d890",
+      "family": "Greens"
+    },
+    {
+      "number": "101",
+      "name": "Apple Green",
+      "hex": "#8db951",
+      "family": "Greens"
+    },
+    {
+      "number": "102",
+      "name": "Spring Green",
+      "hex": "#88c768",
+      "family": "Greens"
+    },
+    {
+      "number": "103",
+      "name": "Pale Green",
+      "hex": "#d3e4b6",
+      "family": "Greens"
+    },
+    {
+      "number": "104",
+      "name": "Emerald Green",
+      "hex": "#38976d",
+      "family": "Greens"
+    },
+    {
+      "number": "105",
+      "name": "Aquamarine",
+      "hex": "#68bca6",
+      "family": "Greens"
+    },
+    {
+      "number": "106",
+      "name": "Mint",
+      "hex": "#98d7c0",
+      "family": "Greens"
+    },
+    {
+      "number": "107",
+      "name": "Dark Yellowish Green",
+      "hex": "#6b873a",
+      "family": "Greens"
+    },
+    {
+      "number": "108",
+      "name": "Light Olive",
+      "hex": "#9ca767",
+      "family": "Greens"
+    },
+    {
+      "number": "109",
+      "name": "Dark Bluish Green",
+      "hex": "#285d57",
+      "family": "Greens"
+    },
+    {
+      "number": "110",
+      "name": "Turquoise",
+      "hex": "#369e9b",
+      "family": "Greens"
+    },
+    {
+      "number": "111",
+      "name": "Teal",
+      "hex": "#297e80",
+      "family": "Greens"
+    },
+    {
+      "number": "112",
+      "name": "Light Emerald Green",
+      "hex": "#70cbaa",
+      "family": "Greens"
+    },
+    {
+      "number": "113",
+      "name": "Aqua Green",
+      "hex": "#78beb0",
+      "family": "Greens"
+    },
+    {
+      "number": "114",
+      "name": "Light Aqua Green",
+      "hex": "#a9d6ca",
+      "family": "Greens"
+    },
+    {
+      "number": "115",
+      "name": "Light Sea Green",
+      "hex": "#7dc7b5",
+      "family": "Greens"
+    },
+    {
+      "number": "116",
+      "name": "Bottle Green",
+      "hex": "#2b6753",
+      "family": "Greens"
+    },
+    {
+      "number": "117",
+      "name": "Medium Sea Green",
+      "hex": "#479b77",
+      "family": "Greens"
+    },
+    {
+      "number": "118",
+      "name": "Kiwi Green",
+      "hex": "#a7bb58",
+      "family": "Greens"
+    },
+    {
+      "number": "119",
+      "name": "Grass Green",
+      "hex": "#66a44a",
+      "family": "Greens"
+    },
+    {
+      "number": "120",
+      "name": "Bluish Green",
+      "hex": "#3e8a76",
+      "family": "Greens"
+    },
+    {
+      "number": "121",
+      "name": "Medium Green",
+      "hex": "#4d994d",
+      "family": "Greens"
+    },
+    {
+      "number": "122",
+      "name": "Lawn Green",
+      "hex": "#7fc240",
+      "family": "Greens"
+    },
+    {
+      "number": "123",
+      "name": "Mineral Green",
+      "hex": "#7caa8c",
+      "family": "Greens"
+    },
+    {
+      "number": "124",
+      "name": "Dark Green",
+      "hex": "#2e643e",
+      "family": "Greens"
+    },
+    {
+      "number": "125",
+      "name": "Light Jade Green",
+      "hex": "#a4d5b3",
+      "family": "Greens"
+    },
+    {
+      "number": "126",
+      "name": "Cadmium Yellow",
+      "hex": "#e9d04c",
+      "family": "Yellows & oranges"
+    },
+    {
+      "number": "127",
+      "name": "Jade Green",
+      "hex": "#68ac8e",
+      "family": "Greens"
+    },
+    {
+      "number": "128",
+      "name": "Middle Yellowish Green",
+      "hex": "#88a953",
+      "family": "Greens"
+    },
+    {
+      "number": "129",
+      "name": "Bean Green",
+      "hex": "#a5bb85",
+      "family": "Greens"
+    },
+    {
+      "number": "130",
+      "name": "Light Green",
+      "hex": "#b8d886",
+      "family": "Greens"
+    },
+    {
+      "number": "131",
+      "name": "Clover Green",
+      "hex": "#5c9b57",
+      "family": "Greens"
+    },
+    {
+      "number": "132",
+      "name": "Moss Green",
+      "hex": "#789852",
+      "family": "Greens"
+    },
+    {
+      "number": "133",
+      "name": "Brilliant Green",
+      "hex": "#4ea460",
+      "family": "Greens"
+    },
+    {
+      "number": "134",
+      "name": "Fresh Green",
+      "hex": "#70b65a",
+      "family": "Greens"
+    },
+    {
+      "number": "135",
+      "name": "Forest Green",
+      "hex": "#365f3c",
+      "family": "Greens"
+    },
+    {
+      "number": "136",
+      "name": "Leaf Green",
+      "hex": "#7c9e49",
+      "family": "Greens"
+    },
+    {
+      "number": "137",
+      "name": "Prussian Green",
+      "hex": "#254e42",
+      "family": "Greens"
+    },
+    {
+      "number": "138",
+      "name": "Mint Green Light",
+      "hex": "#c4e4cc",
+      "family": "Greens"
+    },
+    {
+      "number": "139",
+      "name": "Mint Green",
+      "hex": "#98c9b1",
+      "family": "Greens"
+    },
+    {
+      "number": "140",
+      "name": "Olive Green",
+      "hex": "#718248",
+      "family": "Greens"
+    },
+    {
+      "number": "141",
+      "name": "Fruit Green",
+      "hex": "#9ebd4c",
+      "family": "Greens"
+    },
+    {
+      "number": "142",
+      "name": "Pthalo Green",
+      "hex": "#21816c",
+      "family": "Greens"
+    },
+    {
+      "number": "143",
+      "name": "Light Wisteria",
+      "hex": "#d9c8eb",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "144",
+      "name": "Orchid Purple",
+      "hex": "#b38bc9",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "145",
+      "name": "Wisteria",
+      "hex": "#b6a0d0",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "146",
+      "name": "Mineral Violet",
+      "hex": "#9b8ba9",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "147",
+      "name": "Light Orchid",
+      "hex": "#e1c5e8",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "148",
+      "name": "Purplish Red",
+      "hex": "#a66393",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "149",
+      "name": "Crape Myrtle",
+      "hex": "#b169a6",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "150",
+      "name": "Medium Orchid",
+      "hex": "#b988c6",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "151",
+      "name": "Violet",
+      "hex": "#8766a8",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "152",
+      "name": "Light Purple",
+      "hex": "#c9a6df",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "153",
+      "name": "Grape",
+      "hex": "#754f9a",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "154",
+      "name": "Purple",
+      "hex": "#9366b3",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "155",
+      "name": "Lavender",
+      "hex": "#b9a1d1",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "156",
+      "name": "Plum",
+      "hex": "#845173",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "157",
+      "name": "Deep Magenta",
+      "hex": "#973d87",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "158",
+      "name": "Pale Purple",
+      "hex": "#daccdf",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "159",
+      "name": "Lilac",
+      "hex": "#c4b1df",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "160",
+      "name": "Grayish Pink",
+      "hex": "#b49ca9",
+      "family": "Neutrals"
+    },
+    {
+      "number": "161",
+      "name": "Green Grey",
+      "hex": "#98aa9e",
+      "family": "Neutrals"
+    },
+    {
+      "number": "162",
+      "name": "Warm Grey",
+      "hex": "#a89e92",
+      "family": "Neutrals"
+    },
+    {
+      "number": "163",
+      "name": "Grape Purple",
+      "hex": "#7c5b8e",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "164",
+      "name": "Light Grape Purple",
+      "hex": "#b9a2c9",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "165",
+      "name": "Bengal Rose",
+      "hex": "#c24c81",
+      "family": "Purples & pinks"
+    },
+    {
+      "number": "166",
+      "name": "Bronze",
+      "hex": "#96764d",
+      "family": "Earth tones"
+    },
+    {
+      "number": "167",
+      "name": "Chocolate",
+      "hex": "#775141",
+      "family": "Earth tones"
+    },
+    {
+      "number": "168",
+      "name": "Greenish Grey",
+      "hex": "#84948a",
+      "family": "Neutrals"
+    },
+    {
+      "number": "169",
+      "name": "Umber Grey",
+      "hex": "#8b8075",
+      "family": "Neutrals"
+    },
+    {
+      "number": "170",
+      "name": "Bistre",
+      "hex": "#796b4c",
+      "family": "Earth tones"
+    },
+    {
+      "number": "171",
+      "name": "Brown",
+      "hex": "#956846",
+      "family": "Earth tones"
+    },
+    {
+      "number": "172",
+      "name": "Light Ochre",
+      "hex": "#d4b46c",
+      "family": "Earth tones"
+    },
+    {
+      "number": "173",
+      "name": "Dark Coffee",
+      "hex": "#624d42",
+      "family": "Earth tones"
+    },
+    {
+      "number": "174",
+      "name": "Deep Greenish Grey",
+      "hex": "#53625b",
+      "family": "Neutrals"
+    },
+    {
+      "number": "175",
+      "name": "Tan",
+      "hex": "#bd9b79",
+      "family": "Earth tones"
+    },
+    {
+      "number": "176",
+      "name": "Light Reddish Brown",
+      "hex": "#b98770",
+      "family": "Earth tones"
+    },
+    {
+      "number": "177",
+      "name": "Reddish Brown",
+      "hex": "#a96e58",
+      "family": "Earth tones"
+    },
+    {
+      "number": "178",
+      "name": "Dark Brownish Grey",
+      "hex": "#6c625e",
+      "family": "Neutrals"
+    },
+    {
+      "number": "179",
+      "name": "Silver Grey",
+      "hex": "#b8bdc2",
+      "family": "Neutrals"
+    },
+    {
+      "number": "180",
+      "name": "Brownish Red",
+      "hex": "#9c534b",
+      "family": "Earth tones"
+    },
+    {
+      "number": "181",
+      "name": "Dark Brown",
+      "hex": "#634b40",
+      "family": "Earth tones"
+    },
+    {
+      "number": "182",
+      "name": "Coffee",
+      "hex": "#80604c",
+      "family": "Earth tones"
+    },
+    {
+      "number": "183",
+      "name": "Ochre",
+      "hex": "#b5924d",
+      "family": "Earth tones"
+    },
+    {
+      "number": "184",
+      "name": "Cinnamon",
+      "hex": "#b37b53",
+      "family": "Earth tones"
+    },
+    {
+      "number": "185",
+      "name": "Dark Grey Violet",
+      "hex": "#776b83",
+      "family": "Neutrals"
+    },
+    {
+      "number": "186",
+      "name": "Burnt Umber",
+      "hex": "#77553e",
+      "family": "Earth tones"
+    },
+    {
+      "number": "187",
+      "name": "Slate Grey",
+      "hex": "#7e8c95",
+      "family": "Neutrals"
+    },
+    {
+      "number": "188",
+      "name": "Mist Grey",
+      "hex": "#bbc2c4",
+      "family": "Neutrals"
+    },
+    {
+      "number": "189",
+      "name": "Smoky Grey",
+      "hex": "#919498",
+      "family": "Neutrals"
+    },
+    {
+      "number": "190",
+      "name": "Light Brownish Grey",
+      "hex": "#b0a297",
+      "family": "Neutrals"
+    },
+    {
+      "number": "191",
+      "name": "Grey",
+      "hex": "#96999c",
+      "family": "Neutrals"
+    },
+    {
+      "number": "192",
+      "name": "Light Grey",
+      "hex": "#c9cbcc",
+      "family": "Neutrals"
+    },
+    {
+      "number": "193",
+      "name": "Lead Grey",
+      "hex": "#707881",
+      "family": "Neutrals"
+    },
+    {
+      "number": "194",
+      "name": "Lamp Brown",
+      "hex": "#6c5949",
+      "family": "Earth tones"
+    },
+    {
+      "number": "195",
+      "name": "Lotus Grey",
+      "hex": "#b9b1b7",
+      "family": "Neutrals"
+    },
+    {
+      "number": "196",
+      "name": "Pale Green",
+      "hex": "#d3d6b4",
+      "family": "Greens"
+    },
+    {
+      "number": "197",
+      "name": "Orange Sienna",
+      "hex": "#bd7e51",
+      "family": "Earth tones"
+    },
+    {
+      "number": "198",
+      "name": "Cyan Grey",
+      "hex": "#9caeb1",
+      "family": "Neutrals"
+    },
+    {
+      "number": "199",
+      "name": "Walnut Brown",
+      "hex": "#65503e",
+      "family": "Earth tones"
+    },
+    {
+      "number": "200",
+      "name": "Dark Grey",
+      "hex": "#53565a",
+      "family": "Neutrals"
+    },
+    {
+      "number": "201",
+      "name": "Dark Sepia",
+      "hex": "#524b40",
+      "family": "Earth tones"
+    },
+    {
+      "number": "202",
+      "name": "Orange Grey",
+      "hex": "#b6a398",
+      "family": "Neutrals"
+    },
+    {
+      "number": "203",
+      "name": "Black",
+      "hex": "#242728",
+      "family": "Neutrals"
+    },
+    {
+      "number": "204",
+      "name": "White",
+      "hex": "#f7f5e9",
+      "family": "Neutrals"
+    },
+    {
+      "number": "205",
+      "name": "Metallic Blue",
+      "hex": "#527fbd",
+      "family": "Metallic"
+    },
+    {
+      "number": "206",
+      "name": "Metallic Cyan Blue",
+      "hex": "#52a4b7",
+      "family": "Metallic"
+    },
+    {
+      "number": "207",
+      "name": "Metallic Orange",
+      "hex": "#c28b59",
+      "family": "Metallic"
+    },
+    {
+      "number": "208",
+      "name": "Metallic Red",
+      "hex": "#b55b65",
+      "family": "Metallic"
+    },
+    {
+      "number": "209",
+      "name": "Metallic Pink",
+      "hex": "#c17b9e",
+      "family": "Metallic"
+    },
+    {
+      "number": "210",
+      "name": "Metallic Violet",
+      "hex": "#9a7fad",
+      "family": "Metallic"
+    },
+    {
+      "number": "211",
+      "name": "Metallic Grass Green",
+      "hex": "#6d9e66",
+      "family": "Metallic"
+    },
+    {
+      "number": "212",
+      "name": "Metallic Light Green",
+      "hex": "#a9bc76",
+      "family": "Metallic"
+    },
+    {
+      "number": "213",
+      "name": "Metallic Teal",
+      "hex": "#518e88",
+      "family": "Metallic"
+    },
+    {
+      "number": "214",
+      "name": "Metallic Ochre",
+      "hex": "#b69b65",
+      "family": "Metallic"
+    },
+    {
+      "number": "215",
+      "name": "Metallic Gold",
+      "hex": "#c5ad64",
+      "family": "Metallic"
+    },
+    {
+      "number": "216",
+      "name": "Metallic Silver",
+      "hex": "#bbc1c7",
+      "family": "Metallic"
+    },
+    {
+      "number": "217",
+      "name": "Metallic Green Gold",
+      "hex": "#a3a366",
+      "family": "Metallic"
+    },
+    {
+      "number": "218",
+      "name": "Metallic Pale Gold",
+      "hex": "#d1c391",
+      "family": "Metallic"
+    },
+    {
+      "number": "219",
+      "name": "Metallic Light Purple",
+      "hex": "#b09cc7",
+      "family": "Metallic"
+    },
+    {
+      "number": "220",
+      "name": "Metallic Indigo",
+      "hex": "#686caa",
+      "family": "Metallic"
+    },
+    {
+      "number": "221",
+      "name": "Metallic Pale Violet",
+      "hex": "#c0acd2",
+      "family": "Metallic"
+    },
+    {
+      "number": "222",
+      "name": "Metallic Purple Black",
+      "hex": "#514657",
+      "family": "Metallic"
+    },
+    {
+      "number": "223",
+      "name": "Metallic Copper",
+      "hex": "#b78263",
+      "family": "Metallic"
+    },
+    {
+      "number": "224",
+      "name": "Metallic Red Brown",
+      "hex": "#94685b",
+      "family": "Metallic"
+    },
+    {
+      "number": "225",
+      "name": "Metallic Yellow Ochre",
+      "hex": "#bc9c64",
+      "family": "Metallic"
+    },
+    {
+      "number": "226",
+      "name": "Metallic Coffee",
+      "hex": "#816858",
+      "family": "Metallic"
+    },
+    {
+      "number": "227",
+      "name": "Metallic Flesh Tint",
+      "hex": "#d1b39e",
+      "family": "Metallic"
+    },
+    {
+      "number": "228",
+      "name": "Metallic Orange Red",
+      "hex": "#c37c63",
+      "family": "Metallic"
+    },
+    {
+      "number": "229",
+      "name": "Fluorescent Lemon Yellow",
+      "hex": "#e9f54a",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "230",
+      "name": "Fluorescent Golden Yellow",
+      "hex": "#f7d740",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "231",
+      "name": "Fluorescent Orange Red",
+      "hex": "#ff754c",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "232",
+      "name": "Fluorescent Pink",
+      "hex": "#ff65aa",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "233",
+      "name": "Fluorescent Bengal Rose",
+      "hex": "#ee4eaa",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "234",
+      "name": "Fluorescent Rose Pink",
+      "hex": "#fa8dc4",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "235",
+      "name": "Fluorescent Peach Red",
+      "hex": "#ff9c8e",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "236",
+      "name": "Fluorescent Green",
+      "hex": "#80ec75",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "237",
+      "name": "Fluorescent Yellow Green",
+      "hex": "#c4f24e",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "238",
+      "name": "Fluorescent Light Blue",
+      "hex": "#7bdcf2",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "239",
+      "name": "Fluorescent Purple",
+      "hex": "#b58aef",
+      "family": "Fluorescent"
+    },
+    {
+      "number": "240",
+      "name": "Fluorescent Indigo",
+      "hex": "#7f84e2",
+      "family": "Fluorescent"
+    }
+  ]
+}

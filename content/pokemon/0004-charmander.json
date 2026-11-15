@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "number": 4,
+  "name": "Charmander",
+  "slug": "charmander",
+  "types": [
+    "Fire"
+  ],
+  "family": "charmander",
+  "intro": "Warm orange skin, a soft peach belly, cool blue eyes and a luminous flame create a lively balance. Keep the flame centre brightest and the body shadows warm.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/charmander",
+    "attribution": "Official Pok\u00e9mon artwork. \u00a9 Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pok\u00e9mon.com.",
+    "fallback": "/artwork/charmander.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body",
+      "pencils": [
+        "033",
+        "031",
+        "059",
+        "034"
+      ]
+    },
+    {
+      "label": "Belly",
+      "pencils": [
+        "021",
+        "055",
+        "172"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "070",
+        "095",
+        "203"
+      ]
+    },
+    {
+      "label": "Mouth",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ]
+    },
+    {
+      "label": "Flame",
+      "pencils": [
+        "047",
+        "043",
+        "031",
+        "032"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Work with a light source above and to the left. First layers use light pressure, roughly 1\u20132 out of 5. Keep a sharp point for edges and use small circular strokes for even skin. Build several transparent layers before medium-pressure blending; test on spare paper first.",
+  "sections": [
+    {
+      "title": "Head & muzzle",
+      "steps": [
+        {
+          "text": "Lay @033 lightly across the forehead, cheeks and muzzle. Leave a pale highlight on the upper-left forehead and above the muzzle, avoiding the eyes.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Build @031 round the right cheek and beneath the jaw. Use light circular strokes and reduce pressure towards the middle of the face.",
+          "pencils": [
+            "031"
+          ]
+        },
+        {
+          "text": "Use @059 at the neck crease and @034 only in the deepest corner under the jaw. Blend the midtone with @033 so the face stays orange rather than brown.",
+          "pencils": [
+            "033",
+            "034",
+            "059"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Torso, arms & legs",
+      "steps": [
+        {
+          "text": "Cover the orange torso, arms and thighs with @033, keeping the belly patch clear. Preserve a pale strip on the top of each curved limb.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Layer @031 down the right flank and beneath the forearms. Use @059 behind the arms, between the haunches and where each limb joins the body.",
+          "pencils": [
+            "031",
+            "059"
+          ]
+        },
+        {
+          "text": "Place tiny @034 contact shadows between the legs and under the feet. Feather them into @059 and smooth the larger orange transitions with @033.",
+          "pencils": [
+            "033",
+            "034",
+            "059"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Soft peach belly",
+      "steps": [
+        {
+          "text": "Apply @021 from the chest down over the belly. Keep a pale central oval so the stomach appears rounded rather than filled with one solid colour.",
+          "pencils": [
+            "021"
+          ]
+        },
+        {
+          "text": "Build @055 around the sides and beneath the chin. Follow the pale patch outline without creating a heavy dark rim around the whole belly.",
+          "pencils": [
+            "055"
+          ]
+        },
+        {
+          "text": "Use @172 sparingly at the lower edge and beside the thighs. Blend towards the centre with @021, leaving the middle lighter than the edges.",
+          "pencils": [
+            "021",
+            "172"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tail & tail bend",
+      "steps": [
+        {
+          "text": "Carry @033 down the tail with curved strokes, leaving the upper-left ridge pale. Work around the flame rather than colouring orange through it.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Use @031 on the outer tail curve and @059 underneath the bend. Add @034 only at the tight crease where the tail joins the body.",
+          "pencils": [
+            "031",
+            "034",
+            "059"
+          ]
+        },
+        {
+          "text": "Blend the ridge with @033. Near the flame, keep the tail brighter to suggest reflected warm light rather than a dark outline against the glow.",
+          "pencils": [
+            "033"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yellow-orange tail flame",
+      "steps": [
+        {
+          "text": "Reserve a tiny paper-white core if the drawing allows it and place @047 around it. This yellow centre should remain the brightest part of the flame.",
+          "pencils": [
+            "047"
+          ]
+        },
+        {
+          "text": "Add @043 round the yellow centre and @031 on the outer flame lobes. Use short flicking strokes from the base towards the pointed tips.",
+          "pencils": [
+            "031",
+            "043"
+          ]
+        },
+        {
+          "text": "Use @032 at the outermost tongues and in a few narrow creases. Blend the yellow-to-orange join with @043, keeping red out of the bright core.",
+          "pencils": [
+            "032",
+            "043"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Blue eyes",
+      "pencils": [
+        "070",
+        "095",
+        "203"
+      ],
+      "instructions": "Use @070 on the iris, @095 directly beneath the upper eyelid and @203 for the pupil. Preserve the white catchlight and eye whites."
+    },
+    {
+      "feature": "Mouth & tongue",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ],
+      "instructions": "Use @050 on the tongue, @017 at the root and @015 inside the mouth behind it. Keep teeth as bare paper."
+    },
+    {
+      "feature": "Claws & teeth",
+      "pencils": [
+        "204"
+      ],
+      "instructions": "Reserve paper white and keep the printed edges clear. Use @204 only at the end to smooth a small pale highlight."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Use @059 and tiny @034 accents beneath the jaw, at arm attachments, between the legs and under the tail.",
+      "Keep the belly centre pale and use @172 only along its lower edge and tight folds.",
+      "Retain the yellow flame centre. Concentrate @032 on outer flame tongues to preserve the glow."
+    ],
+    "blending": "Blend skin with @033, the belly with @021 and flame transitions with @047 or @043. Keep flame strokes directional instead of burnishing the whole flame into flat orange.",
+    "white": "Use @204 only at the end for a small soft highlight or a deliberately pale blend. It can lighten or cloud saturated colours, and firm burnishing fills the paper\u2019s tooth, making later layers difficult. Prefer the lightest coloured pencil for broad blends when vibrancy matters. Reserve tiny eye reflections as bare paper; white pencil may not cover a dark layer."
+  },
+  "colouringOrder": [
+    "Orange skin base",
+    "Body & tail shadows",
+    "Peach belly",
+    "Blue eyes & mouth",
+    "Flame from bright centre outward",
+    "Claws, warm reflections & final highlights"
+  ],
+  "completedArtwork": []
+}

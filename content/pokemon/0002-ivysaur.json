@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "number": 2,
+  "name": "Ivysaur",
+  "slug": "ivysaur",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "family": "bulbasaur",
+  "intro": "Give Ivysaur deeper blue-green skin than Bulbasaur, a layered leaf collar and a luminous folded pink bud. Keep its upper surfaces bright against the dark underside.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/ivysaur",
+    "attribution": "Official Pok\u00e9mon artwork. \u00a9 Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pok\u00e9mon.com.",
+    "fallback": "/artwork/ivysaur.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body & shadows",
+      "pencils": [
+        "113",
+        "110",
+        "111",
+        "109"
+      ]
+    },
+    {
+      "label": "Markings",
+      "pencils": [
+        "080",
+        "109"
+      ]
+    },
+    {
+      "label": "Leaves",
+      "pencils": [
+        "130",
+        "121",
+        "134",
+        "135",
+        "137"
+      ]
+    },
+    {
+      "label": "Bud",
+      "pencils": [
+        "050",
+        "057",
+        "165",
+        "157"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ]
+    },
+    {
+      "label": "Mouth",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ]
+    },
+    {
+      "label": "Highlights & blending",
+      "pencils": [
+        "204"
+      ]
+    }
+  ],
+  "technique": "Work with a light source above and to the left. First layers use light pressure, roughly 1\u20132 out of 5. Keep a sharp point for edges and use small circular strokes for even skin. Build several transparent layers before medium-pressure blending; test on spare paper first.",
+  "sections": [
+    {
+      "title": "Head, muzzle & ears",
+      "steps": [
+        {
+          "text": "Apply @113 lightly across the forehead, cheeks and outer ears. Keep the upper muzzle, top-left brow and ear rims paler, reserving small paper highlights.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Layer @110 round the right side of the face and beneath the cheekbones. Bring @111 into the ear interiors, below the jaw and towards the neck.",
+          "pencils": [
+            "110",
+            "111"
+          ]
+        },
+        {
+          "text": "Use @109 sparingly in the deepest ear crease and where the leaf collar shades the head. Blend the middle tones with @113 so the face stays turquoise rather than uniformly dark.",
+          "pencils": [
+            "109",
+            "113"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Torso, legs & toes",
+      "steps": [
+        {
+          "text": "Lay @113 over the torso and legs using light circular strokes. Leave a lighter strip over each shoulder and upper haunch to suggest rounded muscles.",
+          "pencils": [
+            "113"
+          ]
+        },
+        {
+          "text": "Build @110 on the flanks and @111 beneath the belly, behind the knees and along the inner legs. Keep the front-facing surfaces distinctly lighter.",
+          "pencils": [
+            "110",
+            "111"
+          ]
+        },
+        {
+          "text": "Use @109 in the small gaps between the legs and directly under the leaves. Feather it into @111, then soften the larger transitions with @113.",
+          "pencils": [
+            "109",
+            "111",
+            "113"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Blue-green body markings",
+      "steps": [
+        {
+          "text": "Fill each angular forehead and limb marking with @080. Use a sharp point near the edges and a lighter layer on the upper-left side.",
+          "pencils": [
+            "080"
+          ]
+        },
+        {
+          "text": "Add @109 to the bottom and right side of each patch. These small dark regions should follow the same lighting as the skin beneath them.",
+          "pencils": [
+            "109"
+          ]
+        },
+        {
+          "text": "Glaze @080 through the centre to unite the layers. Keep the marks visibly darker than the surrounding skin without thickening their printed outlines.",
+          "pencils": [
+            "080"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Layered leaf collar",
+      "steps": [
+        {
+          "text": "Cover the leaf surfaces with @130 while preserving paler central veins and tips. Stroke from each central vein towards the pointed leaf edges.",
+          "pencils": [
+            "130"
+          ]
+        },
+        {
+          "text": "Build @134 through the middle greens and @121 close to the bases. Keep narrow light strips beside raised veins so the leaves retain texture.",
+          "pencils": [
+            "121",
+            "134"
+          ]
+        },
+        {
+          "text": "Use @135 beneath overlapping leaves and on turned-down edges. Add @137 only in the deepest folds under the bud; soften with @121 and finish lit tips with @130.",
+          "pencils": [
+            "121",
+            "130",
+            "135",
+            "137"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pink flower bud",
+      "steps": [
+        {
+          "text": "Lay @050 over the bud, keeping a pale strip along its upper-left curve. Follow each folded petal upward with light curved strokes.",
+          "pencils": [
+            "050"
+          ]
+        },
+        {
+          "text": "Add @057 around the rounded sides and @165 beside the petal seams. Leave the front petal centre paler so it appears to bulge towards you.",
+          "pencils": [
+            "057",
+            "165"
+          ]
+        },
+        {
+          "text": "Place @157 in the tightest seam and at the bud base where it meets the leaves. Feather @165 out from the crease and blend the lit pink with @050.",
+          "pencils": [
+            "050",
+            "157",
+            "165"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Eyes",
+      "pencils": [
+        "019",
+        "011",
+        "203"
+      ],
+      "instructions": "Use @019 for the iris, @011 beneath the upper eyelid and @203 for the pupil if visible. Keep eye whites and catchlights clean."
+    },
+    {
+      "feature": "Mouth & tongue",
+      "pencils": [
+        "050",
+        "017",
+        "015"
+      ],
+      "instructions": "Apply @050 to the tongue, shade its root with @017 and use @015 in the mouth behind it. Preserve the lighter tongue edge."
+    },
+    {
+      "feature": "Teeth & claws",
+      "pencils": [
+        "204"
+      ],
+      "instructions": "Leave the paper white. Use @204 only for a final pale highlight; keep dark body pigment away from these small shapes."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Deepen @109 beneath the leaf collar, under the chin and in the far-side leg creases.",
+      "Use @137 only under leaf overlaps and @157 in the narrowest bud seams. Small deep shadows make the bright surfaces stand out.",
+      "Keep the shoulders, leaf tips and front of the bud lighter than their undersides."
+    ],
+    "blending": "Blend skin with @113, green ridges with @130 or @134, and pink petals with @050. Follow each form instead of burnishing the entire area uniformly.",
+    "white": "Use @204 only at the end for a small soft highlight or a deliberately pale blend. It can lighten or cloud saturated colours, and firm burnishing fills the paper\u2019s tooth, making later layers difficult. Prefer the lightest coloured pencil for broad blends when vibrancy matters. Reserve tiny eye reflections as bare paper; white pencil may not cover a dark layer."
+  },
+  "colouringOrder": [
+    "Body base",
+    "Turquoise shadows",
+    "Dark markings",
+    "Leaf collar & veins",
+    "Pink bud & folds",
+    "Eyes, mouth, claws & final shadows"
+  ],
+  "completedArtwork": []
+}
