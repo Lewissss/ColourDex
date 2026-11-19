@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "number": 5,
+  "name": "Charmeleon",
+  "slug": "charmeleon",
+  "types": [
+    "Fire"
+  ],
+  "family": "charmander",
+  "intro": "Rich scarlet-red skin, a pale peach-cream belly and cool blue eyes distinguish Charmeleon from the brighter orange Charmander. Keep the tail flame luminous and the claws nearly white. Adapt placement to whichever parts are visible in the colouring page.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/charmeleon",
+    "attribution": "Official Pokémon artwork. © Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pokémon.com.",
+    "fallback": "/artwork/charmeleon.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body & shadows",
+      "pencils": [
+        "025",
+        "019",
+        "008",
+        "018"
+      ]
+    },
+    {
+      "label": "Belly",
+      "pencils": [
+        "021",
+        "055",
+        "190"
+      ]
+    },
+    {
+      "label": "Tail flame",
+      "pencils": [
+        "047",
+        "043",
+        "031",
+        "032"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "081",
+        "070",
+        "095",
+        "203"
+      ]
+    },
+    {
+      "label": "Claws, teeth & highlights",
+      "pencils": [
+        "204",
+        "192"
+      ]
+    }
+  ],
+  "technique": "Use an upper-left light source, light pressure (1–2 out of 5) for the first layers and curved small circular strokes to build the red skin. Test the digital swatch suggestions on paper first: pencil names, barrels and approximate display colours are not measured pigments.",
+  "sections": [
+    {
+      "title": "Head, crest & muzzle",
+      "steps": [
+        {
+          "text": "Lay @025 lightly over the crest, forehead, cheeks and muzzle, avoiding the eye and any visible fang. Leave the upper-left crest and bridge of the nose lighter.",
+          "pencils": [
+            "025"
+          ]
+        },
+        {
+          "text": "Build @019 through the main head colour and @008 beneath the brow, along the lower jaw and on the right side of the face. Feather the shadows towards the centre.",
+          "pencils": [
+            "019",
+            "008"
+          ]
+        },
+        {
+          "text": "Use a tiny touch of @018 where the jaw meets the neck and around the outer corner of the mouth. Blend the main red transitions with @025, without making the whole muzzle dark.",
+          "pencils": [
+            "018",
+            "025"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Torso, arms & legs",
+      "steps": [
+        {
+          "text": "Apply @025 in light layers to the torso, arms, legs and feet, carefully reserving the separate pale belly patch and the white claws.",
+          "pencils": [
+            "025"
+          ]
+        },
+        {
+          "text": "Layer @019 over the main body, keeping the tops of the shoulders, thighs and outstretched arm brighter. Use @008 beneath the extended arm, along the inner thighs and under the belly.",
+          "pencils": [
+            "019",
+            "008"
+          ]
+        },
+        {
+          "text": "Add @018 sparingly at the armpits or deepest limb attachment creases. Feather the dark red into @008 and finish the illuminated areas with @025, preserving clear highlights.",
+          "pencils": [
+            "018",
+            "008",
+            "025"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cream-peach belly",
+      "steps": [
+        {
+          "text": "Cover the outlined belly patch with a light layer of @021, keeping the large central area pale. Use curved strokes around its rounded outline.",
+          "pencils": [
+            "021"
+          ]
+        },
+        {
+          "text": "Shade the lower and side edges with @055, concentrating at the lower belly where it meets the legs. Avoid darkening the whole centre or making a continuous dark outline.",
+          "pencils": [
+            "055"
+          ]
+        },
+        {
+          "text": "Add just a hint of @190 in the tightest lower-edge crease if needed. Blend inward with @021 and retain a pale upper-left highlight; stop before the patch becomes brown or grey.",
+          "pencils": [
+            "190",
+            "021"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tail & reflected light",
+      "steps": [
+        {
+          "text": "Trace the outlined tail back to the body before colouring, so a separate flame or background shape is not mistaken for Charmeleon's tail. Lay @025 on the visible tail.",
+          "pencils": [
+            "025"
+          ]
+        },
+        {
+          "text": "Build @019 on the sides of the tail and @008 along the lower edge and bend. Follow the curve with strokes and keep its upper edge and flame-facing end brighter.",
+          "pencils": [
+            "019",
+            "008"
+          ]
+        },
+        {
+          "text": "Use @018 only in a deep contact shadow if the tail overlaps the body. Soften with @025 and introduce a little @032 at the flame-facing tip for reflected warm light.",
+          "pencils": [
+            "018",
+            "025",
+            "032"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Glowing tail flame",
+      "steps": [
+        {
+          "text": "Reserve a small pale core of paper and apply @047 inside the outlined inner flame. Work towards the edges with light pressure to keep the centre glowing.",
+          "pencils": [
+            "047"
+          ]
+        },
+        {
+          "text": "Use @043 where the inner flame meets the outer flame, then @031 across the outer lobes. Overlap the yellow and orange in short strokes that follow the flame shape.",
+          "pencils": [
+            "043",
+            "031"
+          ]
+        },
+        {
+          "text": "Finish selected outer tips and folds with @032, leaving the inner area bright. Blend the transition with @043 rather than outlining the entire flame in red.",
+          "pencils": [
+            "032",
+            "043"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Blue eye",
+      "instructions": "Leave the white sclera and tiny reflection as bare paper. Use @081 in the lower iris, @070 for the main iris, @095 under the upper eyelid and @203 for the pupil.",
+      "pencils": [
+        "081",
+        "070",
+        "095",
+        "203"
+      ]
+    },
+    {
+      "feature": "Closed mouth & visible fang",
+      "instructions": "Leave the tiny visible fang white if drawn, adding @192 at its base and @204 if blending is needed. Do not invent a tongue or large mouth interior on a closed-mouth pose.",
+      "pencils": [
+        "192",
+        "204"
+      ]
+    },
+    {
+      "feature": "White claws",
+      "instructions": "Leave most of each claw as bare paper. Apply @192 very lightly near each base, fading towards the tip with @204. Avoid yellowing the claws.",
+      "pencils": [
+        "192",
+        "204"
+      ]
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Concentrate @008 beneath the brow and jaw, along the underside of the outstretched arm and between the legs.",
+      "Use @055 at the lower belly edge and a tiny amount of @190 only in the tightest crease; retain a much paler centre.",
+      "Use @018 sparingly for contact shadows and keep @047 in the flame centre brightest."
+    ],
+    "blending": "Blend the red body with @025, the belly with @021 and flame transitions with @043. Keep the darkest areas narrow and avoid flattening shadows with heavy pressure.",
+    "white": "Use @204 only at the end on pale belly highlights or white claws. Firm burnishing can fill the paper tooth and white can make red look pink or chalky. Blend the red skin with @025 instead; preserve eye reflections as bare paper."
+  },
+  "colouringOrder": [
+    "Red body & head base",
+    "Body and tail shadows",
+    "Cream-peach belly",
+    "Blue eye & white claws",
+    "Tail flame from centre outward",
+    "Final blending & highlights"
+  ],
+  "completedArtwork": []
+}
