@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-19",
   "pokemon": [
     {
       "number": 1,
@@ -69,6 +69,23 @@
         "033",
         "031",
         "059",
+        "021",
+        "055"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Charmeleon",
+      "slug": "charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "family": "charmander",
+      "file": "0005-charmeleon.json",
+      "previewPencils": [
+        "025",
+        "019",
+        "008",
         "021",
         "055"
       ]
