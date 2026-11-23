@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "number": 6,
+  "name": "Charizard",
+  "slug": "charizard",
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "family": "charmander",
+  "intro": "Rich golden-orange scales, a softly shaded pale-cream belly and blue-green wing membranes set Charizard apart from Charmander and Charmeleon. Keep the orange wing bones separate from the teal membranes and the tail flame brightest in its yellow centre. Adapt these steps to only those features visible on the colouring page.",
+  "artwork": {
+    "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png",
+    "sourceUrl": "https://www.pokemon.com/us/pokedex/charizard",
+    "attribution": "Official Pokémon artwork. © Nintendo / Creatures Inc. / GAME FREAK inc. Source: Pokémon.com.",
+    "fallback": "/artwork/charizard.png"
+  },
+  "colourGroups": [
+    {
+      "label": "Body & orange shadows",
+      "pencils": [
+        "033",
+        "031",
+        "059",
+        "034"
+      ]
+    },
+    {
+      "label": "Cream belly & underside of tail",
+      "pencils": [
+        "053",
+        "021",
+        "055",
+        "172"
+      ]
+    },
+    {
+      "label": "Blue-green wing membranes",
+      "pencils": [
+        "110",
+        "075",
+        "080",
+        "109"
+      ]
+    },
+    {
+      "label": "Tail flame",
+      "pencils": [
+        "047",
+        "043",
+        "031",
+        "032"
+      ]
+    },
+    {
+      "label": "Eyes",
+      "pencils": [
+        "075",
+        "095",
+        "203",
+        "204"
+      ]
+    },
+    {
+      "label": "Mouth & tongue",
+      "pencils": [
+        "015",
+        "018",
+        "050",
+        "017"
+      ]
+    },
+    {
+      "label": "White teeth & claws",
+      "pencils": [
+        "192",
+        "204"
+      ]
+    }
+  ],
+  "technique": "Keep a consistent upper-left light source. Use very light pencil pressure (roughly 1–2/5) for first layers, build with small circular or curved strokes, then blend using the lighter pencil in the same colour family. Test each Kalour pencil on spare paper before using the online swatches, which are approximate rather than physical pigment measurements.",
+  "sections": [
+    {
+      "title": "Head, horns & long neck",
+      "steps": [
+        {
+          "text": "Apply @033 Orange very lightly across the head, two horns, cheeks and long neck, avoiding the eyes and teeth. Leave a narrow pale highlight along the upper-left contour of the face and neck.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Layer @031 Bright Orange across the warmer midtones, especially the sides of the head and neck. Keep the upper face lighter and use strokes following the long curve of the neck rather than horizontal bands.",
+          "pencils": [
+            "031"
+          ]
+        },
+        {
+          "text": "Use @059 Terracotta beneath the jaw and at the base of the neck, then touch @034 Brick Dust only into deep overlaps. Blend these shadows back into @033 to preserve orange rather than a brown face.",
+          "pencils": [
+            "059",
+            "034",
+            "033"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shoulders, arms, hands & legs",
+      "steps": [
+        {
+          "text": "Lay a light @033 base across the shoulders, arms, hands, thighs and legs. Leave all sharp claws as bare paper and preserve highlights on the outward-facing rounded muscle forms.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Build colour using @031 around the warm forearms and thighs, then add @059 beneath the arms, under the belly and at the inner thigh folds. Let lighter orange remain on their front-facing bulges.",
+          "pencils": [
+            "031",
+            "059"
+          ]
+        },
+        {
+          "text": "Place small @034 contact shadows between claws and where arms join the torso. Feather their edges into @059 then @033; do not press so hard that the skin loses its textured highlights.",
+          "pencils": [
+            "034",
+            "059",
+            "033"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rounded cream belly & tail underside",
+      "steps": [
+        {
+          "text": "Cover the outlined belly and any distinct pale underside of the tail with a thin layer of @053 Pale Yellow, preserving the upper-middle of the belly almost paper white. Do not carry this into the orange limbs.",
+          "pencils": [
+            "053"
+          ]
+        },
+        {
+          "text": "Use @021 Peach Puff very lightly on the lower and side edges to warm the cream, then add @055 Nude to places where the belly joins the torso or curls beneath the body.",
+          "pencils": [
+            "021",
+            "055"
+          ]
+        },
+        {
+          "text": "Strengthen the very narrow bottom edge and any tail underside crease with @172 Light Ochre. Blend inward using @053, leaving the central belly distinctly pale rather than saturated yellow.",
+          "pencils": [
+            "172",
+            "053"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wing bones & blue-green membranes",
+      "steps": [
+        {
+          "text": "Identify the thick orange leading edge and finger-like wing supports before colouring. Give these bony supports a light @033 Orange base and a little @059 Terracotta shadow where one support meets another.",
+          "pencils": [
+            "033",
+            "059"
+          ]
+        },
+        {
+          "text": "Fill ONLY the broad enclosed membrane panels between those supports using a light layer of @110 Turquoise. Keep a thin light strip near each upper ridge to suggest translucent light catching the surface.",
+          "pencils": [
+            "110"
+          ]
+        },
+        {
+          "text": "Layer @075 Peacock Blue and @080 Greenish Blue into the lower portions of each membrane panel, especially near folds or where the membrane stretches between the supporting ribs. Use strokes radiating from the wing joints.",
+          "pencils": [
+            "075",
+            "080"
+          ]
+        },
+        {
+          "text": "Add @109 Dark Bluish Green sparingly at the deep recesses beside the orange wing supports and near the membrane's bottom edge. Blend the transitions back with @110 without covering the brightest upper portions.",
+          "pencils": [
+            "109",
+            "110"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Orange back and curving tail",
+      "steps": [
+        {
+          "text": "Carry a thin @033 Orange layer along any visible back and the tail's upper surface, following the tail's curve. Keep the separate pale underside uncoloured until the cream-belly step.",
+          "pencils": [
+            "033"
+          ]
+        },
+        {
+          "text": "Use @031 Bright Orange through the tail midtones and @059 Terracotta at the lower side and near overlaps. Leave the section nearest the flame a little brighter, as if reflecting firelight.",
+          "pencils": [
+            "031",
+            "059"
+          ]
+        },
+        {
+          "text": "Apply @034 Brick Dust only at the tail's tightest bend or where it passes behind a leg, then soften it using @033. Make sure the dark edge does not turn into an unnatural solid outline.",
+          "pencils": [
+            "034",
+            "033"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Glowing yellow-orange tail flame",
+      "steps": [
+        {
+          "text": "Reserve a tiny white centre if space allows and shade the inner flame with @047 Light Yellow, using feather-light strokes that point towards the ends of the flame tongues.",
+          "pencils": [
+            "047"
+          ]
+        },
+        {
+          "text": "Build @043 Bright Orange Yellow around the bright centre and add @031 Bright Orange through the outer lobes. Overlap each layer gently so the fire glows rather than showing striped bands.",
+          "pencils": [
+            "043",
+            "031"
+          ]
+        },
+        {
+          "text": "Use @032 Orange Red on a few outer tips and deep folds, not around every edge. Blend those boundaries with @043 while keeping the central yellow the brightest colour in the whole drawing.",
+          "pencils": [
+            "032",
+            "043"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Eyes, open mouth & crisp finishing details",
+      "steps": [
+        {
+          "text": "Colour the iris with @075 Peacock Blue, add @095 Ink Blue beneath the upper eyelid, and use @203 Black only for the pupil. Preserve the eye white and a pinpoint reflection as bare paper.",
+          "pencils": [
+            "075",
+            "095",
+            "203"
+          ]
+        },
+        {
+          "text": "Lay @015 Burgundy in the dark mouth cavity behind the tongue; deepen the farthest corners with @018 Maroon. Fill the tongue with @050 Salmon Pink and use @017 Rosy Pink at its base.",
+          "pencils": [
+            "015",
+            "018",
+            "050",
+            "017"
+          ]
+        },
+        {
+          "text": "Keep the teeth and claws white. Apply just a trace of @192 Light Grey at each base, and use @204 White gently to smooth only the lightest edge if needed, rather than introducing yellow.",
+          "pencils": [
+            "192",
+            "204"
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "feature": "Blue-green eyes",
+      "pencils": [
+        "075",
+        "095",
+        "203",
+        "204"
+      ],
+      "instructions": "Use @075 in the iris and @095 near the top, under the eyelid. Place @203 only in the pupil and preserve the white catchlight; @204 can brighten an uncoloured edge."
+    },
+    {
+      "feature": "Inside mouth",
+      "pencils": [
+        "015",
+        "018"
+      ],
+      "instructions": "Fill the cavity behind the tongue using @015, with @018 in the deepest corners. Do not colour the teeth with mouth colours."
+    },
+    {
+      "feature": "Tongue",
+      "pencils": [
+        "050",
+        "017"
+      ],
+      "instructions": "Give the tongue a light @050 base and use @017 beneath the upper lip and at the base, retaining a pale highlight towards its centre."
+    },
+    {
+      "feature": "Claws and sharp teeth",
+      "pencils": [
+        "192",
+        "204"
+      ],
+      "instructions": "Leave most of each tooth and claw as uncoloured white paper. Use @192 at the roots and @204 only to gently smooth highlights; avoid Creamy Yellow, which looks too yellow for this page."
+    },
+    {
+      "feature": "Wing support vs membrane",
+      "pencils": [
+        "033",
+        "059",
+        "110",
+        "075"
+      ],
+      "instructions": "Wing bones and outer frame stay orange using @033 and @059; only the stretched interior panels are blue-green with @110 and @075."
+    }
+  ],
+  "finishing": {
+    "shadows": [
+      "Strengthen @059 and tiny @034 accents beneath the jaw, at the base of the neck and where Charizard's limbs attach to the body.",
+      "Place @109 selectively next to wing bones and in the deepest membrane folds; do not let this remove the beautiful blue-green contrast against the orange skin.",
+      "Use @172 sparingly under the belly while retaining an almost-white central highlight. Reserve @032 mainly for the flame edges so its @047 centre stays vivid."
+    ],
+    "blending": "Blend orange skin with @033, cream belly with @053, wing membranes with @110 and the flame with @043. Work in several light layers and preserve a narrow highlight on wings, tail and face. Do not use white heavily over orange or teal because it dulls saturation.",
+    "white": "Use @204 White only for small pale highlights and near-white claws or teeth. Firm burnishing fills paper tooth and prevents later layering. For broader blending prefer @033 Orange, @053 Pale Yellow, or @110 Turquoise as appropriate. Leave tiny eye highlights uncoloured rather than expecting white to cover dark pigment."
+  },
+  "colouringOrder": [
+    "Orange body, head and neck base",
+    "Arms, legs, tail and shadows",
+    "Pale belly and tail underside",
+    "Orange wing supports and turquoise membranes",
+    "Eyes, mouth and white claws",
+    "Yellow-to-red tail flame",
+    "Final contact shadows, blending and highlights"
+  ],
+  "completedArtwork": []
+}
