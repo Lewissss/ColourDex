@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "pokemon": [
     {
       "number": 1,
@@ -88,6 +88,24 @@
         "008",
         "021",
         "055"
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Charizard",
+      "slug": "charizard",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "family": "charmander",
+      "file": "0006-charizard.json",
+      "previewPencils": [
+        "033",
+        "031",
+        "059",
+        "110",
+        "075"
       ]
     },
     {
