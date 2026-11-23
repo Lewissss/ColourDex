@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "description": "Photographed Kalour 240 pencil tray inventory. Numbers refer to content/palette/kalour-240.json, which is the only authority for pencil names. Pencil positions run top to bottom in the user's overlapping tray photos.",
+  "trays": [
+    {
+      "id": "tray-1",
+      "name": "Pinks, Oranges & Yellows",
+      "description": "Warm-colour tray transitioning from pinks and peaches through oranges, ochres, yellows and finally white.",
+      "order": "top-to-bottom",
+      "pencils": [
+        "010",
+        "052",
+        "021",
+        "051",
+        "055",
+        "057",
+        "054",
+        "049",
+        "059",
+        "048",
+        "041",
+        "036",
+        "044",
+        "060",
+        "207",
+        "030",
+        "038",
+        "230",
+        "043",
+        "040",
+        "042",
+        "056",
+        "053",
+        "058",
+        "126",
+        "045",
+        "229",
+        "046",
+        "047",
+        "204"
+      ],
+      "verifiedFrom": "Three user-provided overlapping photographs on 2026-11-23"
+    }
+  ]
+}
