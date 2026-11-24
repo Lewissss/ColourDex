@@ -79,6 +79,54 @@
         "163"
       ],
       "verifiedFrom": "Six user-provided overlapping photographs on 2026-11-24"
+    },
+    {
+      "id": "tray-3",
+      "name": "Greens & Turquoises",
+      "description": "Dark forest and leaf greens transitioning through jade, emerald, aqua and turquoise into lighter yellow-green, lime and fluorescent shades.",
+      "order": "top-to-bottom",
+      "pencils": [
+        "129",
+        "117",
+        "119",
+        "124",
+        "103",
+        "135",
+        "136",
+        "122",
+        "106",
+        "127",
+        "142",
+        "113",
+        "112",
+        "114",
+        "125",
+        "139",
+        "212",
+        "141",
+        "236",
+        "130",
+        "102",
+        "132",
+        "133",
+        "128",
+        "134",
+        "101",
+        "100",
+        "097",
+        "237",
+        "107"
+      ],
+      "verifiedFrom": "Six user-provided overlapping photographs on 2026-11-24",
+      "nameDiscrepancies": [
+        {
+          "number": "103",
+          "printedName": "Coconut Green",
+          "masterPaletteName": "Pale Green",
+          "status": "awaiting-user-confirmation",
+          "note": "Photograph clearly shows 103 Coconut Green. Existing tin chart and canonical 240-pencil map identify 103 Pale Green. Location is certain; name is not reconciled."
+        }
+      ]
     }
   ]
 }
