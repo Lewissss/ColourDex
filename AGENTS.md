@@ -15,7 +15,8 @@ Canonical public content repository: https://github.com/Lewissss/ColourDex
 
 ## Sources and compatibility
 
-- `content/palette/kalour-240.json` is the only pencil name authority. Preserve all numbers 001–240 exactly once, including duplicate names 103 and 196 Pale Green. Do not regenerate the palette for ordinary guide additions.
+- `content/palette/tray-locations.json` records the user's physical pencil storage tray(s), in top-to-bottom order. Whenever recommending a pencil, look up its tray if recorded, and help the user find it without sorting the physical pencils by number. Do not guess a tray for pencils absent from the map; newly supplied tray photos can add additional tray entries. Never change the canonical 240-pencil palette for location-only updates.
+- `content/palette/kalour-240.json` is the only pencil name authority. Preserve all numbers 001–240 exactly once. Pencil 103 is **Coconut Green**, verified from the physical pencil and separate swatch chart; the original tin insert incorrectly calls it Pale Green. Pencil 196 remains **Pale Green**. Do not regenerate the palette for ordinary guide additions.
 - `content/pokemon/index.json` discovers guides. Number, slug, types, family and filename must match the individual guide. Each family joins existing guide entries in evolutionary order by number.
 - `schemas/` holds strict draft-07 contracts. `src/validation.mjs` adds uniqueness and reference checks. Unknown or incomplete remote snapshots are rejected atomically.
 - `src/content.mjs` configures owner `Lewissss`, repository `ColourDex`, branch `main`. Ordinary content additions do not edit frontend code.
