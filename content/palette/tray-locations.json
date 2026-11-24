@@ -126,6 +126,45 @@
           "source": "User-confirmed pencil barrel and swatch chart photographs, 2026-11-24"
         }
       ]
+    },
+    {
+      "id": "tray-4",
+      "name": "Reds, Pinks & Corals",
+      "description": "Dark and vivid reds through scarlets and orange-reds into fluorescent coral pinks, pale rosy pinks and bright pinks.",
+      "order": "top-to-bottom",
+      "pencils": [
+        "012",
+        "025",
+        "011",
+        "208",
+        "007",
+        "009",
+        "019",
+        "020",
+        "006",
+        "008",
+        "032",
+        "031",
+        "035",
+        "050",
+        "033",
+        "231",
+        "234",
+        "235",
+        "232",
+        "233",
+        "002",
+        "017",
+        "003",
+        "024",
+        "023",
+        "022",
+        "027",
+        "028",
+        "004",
+        "005"
+      ],
+      "verifiedFrom": "Six user-provided overlapping photographs on 2026-11-24"
     }
   ]
 }
